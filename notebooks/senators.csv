@@ -1,1 +1,1191 @@
-tx_date,col2,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount,col8,col9,col10
+Transaction Date,Owner,Ticker,Asset Name,Asset Type,Transaction Type,Amount,Comment,Last Name,First Name,Date Received
+05/07/2024,Joint,ARKK,Ark Innovation ETF Option Type: Call Strike price: $51.00 Expires: 12/20/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/10/2024,Joint,ARKK,Ark Innovation ETF Option Type: Put Strike price: $45.00 Expires: 09/20/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/08/2024,Joint,XBI,S&P Biotech SPDR Option Type: Call Strike price: $100.00 Expires: 10/18/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/08/2024,Joint,XBI,S&P Biotech SPDR Option Type: Put Strike price: $90.00 Expires: 10/18/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/13/2024,Joint,INTC,Intel Corp,Stock,Sale (Full),"$100,001 - $250,000",--,Tuberville,Thomas H,06/14/2024
+05/13/2024,Joint,INTC,Intel Corp,Stock,Sale (Partial),"$100,001 - $250,000",--,Tuberville,Thomas H,06/14/2024
+05/13/2024,Joint,CLF,Cleveland-Cliffs Inc,Stock,Sale (Full),"$100,001 - $250,000",--,Tuberville,Thomas H,06/14/2024
+05/13/2024,Joint,CLF,Cleveland-Cliffs Inc,Stock,Sale (Partial),"$100,001 - $250,000",--,Tuberville,Thomas H,06/14/2024
+05/10/2024,Joint,CLF,Cleveland-Cliffs Inc Option Type: Call Strike price: $20.00 Expires: 07/19/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/10/2024,Joint,CLF,Cleveland-Cliffs Inc Option Type: Call Strike price: $20.00 Expires: 01/17/2025,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/10/2024,Joint,CLF,Cleveland-Cliffs Inc Option Type: Put Strike price: $17.00 Expires: 01/17/2025,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/10/2024,Joint,GILD,Gilead Sciences Inc Option Type: Put Strike price: $70.00 Expires: 11/15/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/10/2024,Joint,GILD,Gilead Sciences Inc Option Type: Put Strike price: $70.00 Expires: 11/15/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/10/2024,Joint,GILD,Gilead Sciences Inc Option Type: Put Strike price: $70.00 Expires: 11/15/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/10/2024,Joint,PARA,Paramount Global Cl B,Stock,Sale (Full),"$100,001 - $250,000",--,Tuberville,Thomas H,06/14/2024
+05/10/2024,Joint,CLF,Cleveland-Cliffs Inc Option Type: Call Strike price: $17.00 Expires: 06/21/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/10/2024,Joint,CLF,Cleveland-Cliffs Inc Option Type: Call Strike price: $17.00 Expires: 06/21/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/10/2024,Joint,CLF,Cleveland-Cliffs Inc Option Type: Call Strike price: $17.00 Expires: 06/21/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/10/2024,Joint,CLF,Cleveland-Cliffs Inc Option Type: Call Strike price: $17.00 Expires: 06/21/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/10/2024,Joint,INTC,Intel Corporation - Common Stock,Stock,Sale (Partial),"$100,001 - $250,000",--,Tuberville,Thomas H,06/14/2024
+05/10/2024,Joint,CLF,Cleveland-Cliffs Inc,Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/10/2024,Joint,CLF,Cleveland-Cliffs Inc,Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,06/14/2024
+05/10/2024,Joint,CLF,Cleveland-Cliffs Inc,Stock,Sale (Partial),"$50,001 - $100,000",--,Tuberville,Thomas H,06/14/2024
+05/10/2024,Joint,CLF,Cleveland-Cliffs Inc,Stock,Sale (Partial),"$50,001 - $100,000",--,Tuberville,Thomas H,06/14/2024
+05/10/2024,Joint,CLF,Cleveland-Cliffs Inc,Stock,Sale (Partial),"$100,001 - $250,000",--,Tuberville,Thomas H,06/14/2024
+05/09/2024,Joint,KEY,Keycorp Option Type: Put Strike price: $15.00 Expires: 09/20/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/09/2024,Joint,INTC,Intel Corporation - Common Stock,Stock,Purchase,"$50,001 - $100,000",--,Tuberville,Thomas H,06/14/2024
+05/08/2024,Joint,GOLD,Barrick Gold Corp Option Type: Put Strike price: $17.00 Expires: 01/17/2025,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/08/2024,Joint,GOLD,Barrick Gold Corp Option Type: Put Strike price: $17.00 Expires: 01/17/2025,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/08/2024,Joint,ADBE,Adobe Systems Inc Option Type: Put Strike price: $500.00 Expires: 12/20/2024,Stock Option,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,06/14/2024
+05/08/2024,Joint,SWKS,"Skyworks Solutions, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/08/2024,Joint,INTC,Intel Corporation - Common Stock,Stock,Purchase,"$100,001 - $250,000",--,Tuberville,Thomas H,06/14/2024
+05/08/2024,Joint,GILD,"Gilead Sciences, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/07/2024,Joint,FITB,Fifth Third Bancorp - Common Stock Option Type: Call Strike price: $30.00 Expires: 05/17/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/07/2024,Joint,GOLD,Barrick Gold Corp Option Type: Call Strike price: $20.00 Expires: 01/17/2025,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/07/2024,Joint,CLF,Cleveland-Cliffs Inc Option Type: Call Strike price: $20.00 Expires: 06/21/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/07/2024,Joint,CVX,Chevron Corporation Common Stock Option Type: Put Strike price: $145.00 Expires: 09/20/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/07/2024,Joint,CLF,Cleveland-Cliffs Inc Option Type: Call Strike price: $20.00 Expires: 11/15/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/07/2024,Joint,CCJ,Cameco Corporation Common Stock Option Type: Put Strike price: $45.00 Expires: 09/20/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/07/2024,Joint,LSCC,Lattice Semiconductor Corporation - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/07/2024,Joint,INTC,Intel Corporation - Common Stock,Stock,Purchase,"$100,001 - $250,000",--,Tuberville,Thomas H,06/14/2024
+05/07/2024,Joint,FITB,Fifth Third Bancorp - Common Stock,Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,06/14/2024
+05/07/2024,Joint,GOLD,Barrick Gold Corp,Stock,Sale (Full),"$100,001 - $250,000",--,Tuberville,Thomas H,06/14/2024
+05/07/2024,Joint,WMS,"Advanced Drainage Systems, Inc. Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,WAT,Waters Corporation Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,V,Visa Inc.,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,VRTX,Vertex Pharmaceuticals Incorporated - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,VRSK,"Verisk Analytics, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,UI,Ubiquiti Inc. Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,TER,"Teradyne, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,TEL,Te Connectivity Ltd,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,SNPS,"Synopsys, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,SOLV,Solventum Corporation Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,--,ROLLS-ROYCE HOLDINGS PLC ADR,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,--,ROLLS-ROYCE HOLDINGS PLC ADR,Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,--,ROLLS-ROYCE HOLDINGS PLC ADR,Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,RMD,ResMed Inc. Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,RELX,Relx Plc ADR,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,QLYS,"Qualys, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,PG,Procter & Gamble Company (The) Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,PFE,"Pfizer, Inc. Common Stock",Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,PEP,"PepsiCo, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,PYPL,"PayPal Holdings, Inc. - Common Stock",Stock,Sale (Full),"$100,001 - $250,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,PAYX,"Paychex, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,ODFL,"Old Dominion Freight Line, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,NDSN,Nordson Corporation - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,NXPI,NXP Semiconductors N.V. - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,NFLX,"Netflix, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,MSI,"Motorola Solutions, Inc. Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,MCO,Moody's Corporation Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,MPWR,"Monolithic Power Systems, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,MA,Mastercard Incorporated Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,LULU,lululemon athletica inc. - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,KLAC,KLA Corporation  - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,INFY,Infosys Limited American Depositary Shares,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,ITW,Illinois Tool Works Inc. Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,HUMA,"Humacyte, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,HUMA,"Humacyte, Inc. - Common Stock",Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,HSY,The Hershey Company Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,JKHY,"Jack Henry & Associates, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,GGG,Graco Inc. Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,GRMN,Garmin Ltd. - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,GLPI,"Gaming and Leisure Properties, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,FDS,FactSet Research Systems Inc. Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,ELS,"Equity Lifestyle Properties, Inc. Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,DECK,Deckers Outdoor Corporation Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,CPRT,"Copart, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,CBSH,"Commerce Bancshares, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,CTAS,Cintas Corporation - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,CDNS,"Cadence Design Systems, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,DOW,Dow Inc. Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,BRO,"Brown & Brown, Inc. Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,ASML,ASML Holding N.V. - New York Registry Shares,Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,06/14/2024
+05/03/2024,Joint,A,"Agilent Technologies, Inc. Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024
+06/04/2024,Spouse,WFC,Wells Fargo & Company,Stock,Purchase,"$1,001 - $15,000",Dividend Reinvestment,"McConnell, Jr.",A. Mitchell,06/13/2024
+06/03/2024,Spouse,FWONK,Liberty Media Formula One Sr C,Stock,Sale (Full),"$100,001 - $250,000",--,Hickenlooper,John W,06/10/2024
+06/03/2024,Spouse,FWONK,Liberty Media Formula One Sr C,Stock,Purchase,"$100,001 - $250,000",Exercised stock option,Hickenlooper,John W,06/10/2024
+05/20/2024,Spouse,FWONK,Liberty Media Formula One Sr C,Stock,Sale (Full),"$250,001 - $500,000",--,Hickenlooper,John W,06/10/2024
+05/20/2024,Spouse,FWONK,Liberty Media Formula One Sr C,Stock,Purchase,"$100,001 - $250,000",Exercised stock option,Hickenlooper,John W,06/10/2024
+05/22/2024,Self,--,Harris County Texas Toll Road Revenue Bond Rate/Coupon: 5.25% Matures: 08/15/2049,Municipal Security,Purchase,"$100,001 - $250,000",--,Scott,Rick,06/09/2024
+05/22/2024,Spouse,--,Harris County Texas Toll Road Revenue Bond Rate/Coupon: 5.25% Matures: 08/15/2049,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Scott,Rick,06/09/2024
+05/22/2024,Self,--,Harris County Texas Toll Road Revenue Bond Rate/Coupon: 5.25% Matures: 08/15/2049,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Scott,Rick,06/09/2024
+05/22/2024,Spouse,--,Harris County Texas Toll Road Revenue Bond Rate/Coupon: 5.25% Matures: 08/15/2049,Municipal Security,Purchase,"$250,001 - $500,000",--,Scott,Rick,06/09/2024
+05/09/2024,Self,--,San Miguel County Colorado Sch Dist Rev Bond Rate/Coupon: 5.0% Matures: 12/01/2025,Municipal Security,Sale (Full),"$100,001 - $250,000",Transaction notification provided to filer on 5/10/24,Scott,Rick,06/09/2024
+05/09/2024,Self,--,Port of Seattle Washington Revenue Bond Rate/Coupon: 5.0% Matures: 05/01/2026,Municipal Security,Sale (Full),"$500,001 - $1,000,000",Transaction notification provided to filer on 5/10/24,Scott,Rick,06/09/2024
+05/09/2024,Spouse,--,Port Portland Oregon Airport Revenue Bond Rate/Coupon: 5.0% Matures: 07/01/2030,Municipal Security,Sale (Full),"$250,001 - $500,000",Transaction notification provided to filer on 5/10/24,Scott,Rick,06/09/2024
+05/09/2024,Spouse,--,Port Portland Oregon Airport Revenue Bond Rate/Coupon: 5.0% Matures: 07/01/2030,Municipal Security,Sale (Full),"$250,001 - $500,000",Transaction notification provided to filer on 5/10/24,Scott,Rick,06/09/2024
+06/07/2024,Joint,--,Ishares TR Russell 1000 ETF,Stock,Sale (Partial),"$50,001 - $100,000",--,Mullin,Markwayne,06/07/2024
+05/08/2024,Joint,IWB,iShares Russell 1000 ETF,Stock,Sale (Partial),"$100,001 - $250,000",--,Mullin,Markwayne,06/07/2024
+05/08/2024,Joint,--,Pimco Commodities Plus Strategy Fund Class,Stock,Sale (Partial),"$15,001 - $50,000",--,Mullin,Markwayne,06/07/2024
+05/10/2024,Self,CCI,Crown Castle Inc,Stock,Purchase,"$1,001 - $15,000",--,Whitehouse,Sheldon,06/06/2024
+05/08/2024,Self,DEO,Diageo Plc ADR,Stock,Sale (Full),"$15,001 - $50,000",--,Whitehouse,Sheldon,06/06/2024
+05/31/2024,Joint,GIGB,Goldman Sachs Access Investment Grade Corporate Bo,Stock,Purchase,"$1,001 - $15,000",--,Boozman,John,06/05/2024
+05/31/2024,Joint,IVW,iShares S&P 500 Growth ETF,Stock,Sale (Partial),"$1,001 - $15,000",--,Boozman,John,06/05/2024
+05/31/2024,Joint,EFA,iShares MSCI EAFE ETF,Stock,Sale (Partial),"$1,001 - $15,000",--,Boozman,John,06/05/2024
+05/22/2024,Spouse,TGT,Target Corp,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,06/03/2024
+05/16/2024,Spouse,VEA,Vanguard FTSE Developed Markets ETF,Other Securities,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,06/03/2024
+05/16/2024,Spouse,PRF,Invesco FTSE RAFI US 1000 ETF,Other Securities,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,06/03/2024
+05/16/2024,Spouse,VIG,Vanguard Div Appreciation ETF,Other Securities,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,06/03/2024
+05/16/2024,Spouse,COWZ,Pacer US Cash Cows 100 Index,Other Securities,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,06/03/2024
+05/16/2024,Spouse,ICOW,Pacer Developed Markets International Cash,Other Securities,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,06/03/2024
+05/16/2024,Spouse,EFAD,Proshares MSCI EAFE Dividend Growers ETF,Other Securities,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,06/03/2024
+05/16/2024,Spouse,FDRR,Fidelity Dividend ETF For Rising Rates,Other Securities,Sale (Partial),"$1,001 - $15,000",--,Carper,Thomas R,06/03/2024
+05/16/2024,Spouse,VEA,Vanguard FTSE Developed Markets ETF,Other Securities,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,06/03/2024
+05/16/2024,Spouse,EFAD,Proshares MSCI EAFE Dividend Growers ETF,Other Securities,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,06/03/2024
+05/15/2024,Spouse,SMDV,ProShares Russell 2000 Dividend Growers ETF,Other Securities,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,06/03/2024
+05/15/2024,Spouse,CALF,Pacer US Small Cap Cash Cows 100 ETF,Other Securities,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,06/03/2024
+05/14/2024,Spouse,SRVR,Pacer Benchmark Data & Infrastructure Real Estate,Other Securities,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,06/03/2024
+05/14/2024,Spouse,MOO,VanEck Agribusiness ETF,Other Securities,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,06/03/2024
+05/09/2024,Spouse,ATKR,Atkore Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,06/03/2024
+05/09/2024,Spouse,TTE,TotalEnergies SE,Stock,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,06/03/2024
+05/09/2024,Spouse,SBUX,Starbucks Corp,Stock,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,06/03/2024
+05/09/2024,Spouse,EMR,Emerson Electric Company,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,06/03/2024
+05/09/2024,Spouse,OXY,Occidental Petroleum Corp,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,06/03/2024
+05/02/2024,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$50,001 - $100,000",--,Carper,Thomas R,06/03/2024
+05/02/2024,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$15,001 - $50,000",--,Carper,Thomas R,06/03/2024
+05/02/2024,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$100,001 - $250,000",--,Carper,Thomas R,06/03/2024
+05/02/2024,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$100,001 - $250,000",--,Carper,Thomas R,06/03/2024
+05/02/2024,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$50,001 - $100,000",--,Carper,Thomas R,06/03/2024
+05/01/2024,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$50,001 - $100,000",--,Carper,Thomas R,06/03/2024
+05/01/2024,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,06/03/2024
+05/01/2024,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$50,001 - $100,000",--,Carper,Thomas R,06/03/2024
+05/14/2024,Self,SOLV,Solventum Corporation,Stock,Sale (Full),"$1,001 - $15,000",--,Peters,Gary C,05/23/2024
+05/14/2024,Self,CCL,Carnival Corp,Stock,Sale (Full),"$1,001 - $15,000",--,Peters,Gary C,05/23/2024
+05/14/2024,Self,SLB,Schlumberger N.V.,Stock,Sale (Full),"$1,001 - $15,000",--,Peters,Gary C,05/23/2024
+05/14/2024,Self,IFF,International Flavors & Fragrances,Stock,Sale (Full),"$15,001 - $50,000",--,Peters,Gary C,05/23/2024
+04/30/2024,Spouse,--,JP MORGAN CHASE & CO Rate/Coupon: 6.12% Matures: 02/12/2056,Corporate Bond,Sale (Full),"$1,001 - $15,000",--,Whitehouse,Sheldon,05/20/2024
+04/09/2024,Spouse,RTX,RTX Corporation Common Stock,Stock,Sale (Full),"$15,001 - $50,000",--,Whitehouse,Sheldon,05/20/2024
+04/09/2024,Spouse,DHR,Danaher Corp,Stock,Sale (Full),"$15,001 - $50,000",--,Whitehouse,Sheldon,05/20/2024
+04/09/2024,Spouse,UL,Unilever Plc ADR,Stock,Sale (Full),"$1,001 - $15,000",--,Whitehouse,Sheldon,05/20/2024
+04/09/2024,Spouse,IR,Ingersoll Rand Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Whitehouse,Sheldon,05/20/2024
+04/09/2024,Self,NVS,Novartis Ag ADR,Stock,Sale (Partial),"$1,001 - $15,000",--,Whitehouse,Sheldon,05/20/2024
+04/30/2024,Joint,WBA,"Walgreens Boots Alliance, Inc. - Common Stock",Stock,Sale (Full),"$50,001 - $100,000",--,Tuberville,Thomas H,05/15/2024
+04/30/2024,Joint,PYPL,"PayPal Holdings, Inc. - Common Stock Option Type: Put Strike price: $75.00 Expires: 06/21/2024",Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/30/2024,Joint,SBLK,Star Bulk Carriers Corp. - Common Shares,Stock,Sale (Full),"$50,001 - $100,000",--,Tuberville,Thomas H,05/15/2024
+04/30/2024,Joint,SSBK,"Southern States Bancshares, Inc. - Common Stock",Stock,Sale (Full),"$50,001 - $100,000",--,Tuberville,Thomas H,05/15/2024
+04/30/2024,Joint,OXY,Occidental Petroleum Corporation Common Stock,Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,05/15/2024
+04/30/2024,Joint,NVDA,NVIDIA Corporation - Common Stock,Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,05/15/2024
+04/30/2024,Joint,KEY,KeyCorp Common Stock,Stock,Sale (Full),"$50,001 - $100,000",--,Tuberville,Thomas H,05/15/2024
+04/30/2024,Joint,GOGL,Golden Ocean Group Limited - Common Stock,Stock,Sale (Full),"$50,001 - $100,000",--,Tuberville,Thomas H,05/15/2024
+04/30/2024,Joint,XOM,Exxon Mobil Corporation Common Stock,Stock,Sale (Full),"$50,001 - $100,000",--,Tuberville,Thomas H,05/15/2024
+04/30/2024,Joint,CVX,Chevron Corporation Common Stock,Stock,Sale (Full),"$100,001 - $250,000",--,Tuberville,Thomas H,05/15/2024
+04/30/2024,Joint,HUMA,"Humacyte, Inc. - Common Stock",Stock,Sale (Partial),"$50,001 - $100,000",--,Tuberville,Thomas H,05/15/2024
+04/29/2024,Joint,LSCC,Lattice Semiconductor Corporation - Common Stock Option Type: Put Strike price: $70.00 Expires: 09/20/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/29/2024,Joint,LSCC,Lattice Semiconductor Corporation - Common Stock Option Type: Put Strike price: $70.00 Expires: 09/20/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/29/2024,Joint,CVX,Chevron Corporation Common Stock Option Type: Call Strike price: $160.00 Expires: 06/21/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/29/2024,Joint,CCL,Carnival Corporation Common Stock Option Type: Put Strike price: $17.50 Expires: 06/21/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/29/2024,Joint,QCOM,QUALCOMM Incorporated - Common Stock Option Type: Put Strike price: $155.00 Expires: 12/20/2024,Stock Option,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,05/15/2024
+04/29/2024,Joint,QCOM,QUALCOMM Incorporated - Common Stock Option Type: Put Strike price: $150.00 Expires: 12/20/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/29/2024,Joint,LSCC,Lattice Semiconductor Corporation - Common Stock Option Type: Put Strike price: $75.00 Expires: 01/17/2025,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/29/2024,Joint,LSCC,Lattice Semiconductor Corporation - Common Stock Option Type: Put Strike price: $75.00 Expires: 01/17/2025,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/29/2024,Joint,CLX,Clorox Company Option Type: Put Strike price: $135.00 Expires: 06/21/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/29/2024,Joint,SWKS,"Skyworks Solutions, Inc. - Common Stock Option Type: Put Strike price: $100.00 Expires: 11/15/2024",Stock Option,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,05/15/2024
+04/29/2024,Joint,MMM,3M Company Common Stock,Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,05/15/2024
+04/29/2024,Joint,PAC,Grupo Aeroportuario Del Pacifico ADR,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/18/2024,Joint,KMB,Kimberly-Clark Corporation Common Stock Option Type: Put Strike price: $115.00 Expires: 06/21/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/18/2024,Joint,NTES,Netease Inc ADR,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/05/2024,Joint,SWKS,"Skyworks Solutions, Inc. - Common Stock Option Type: Put Strike price: $100.00 Expires: 11/15/2024",Stock Option,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,05/15/2024
+04/05/2024,Joint,TEL,Te Connectivity Ltd,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/05/2024,Joint,SNPS,"Synopsys, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/05/2024,Joint,SWKS,"Skyworks Solutions, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/05/2024,Joint,QLYS,"Qualys, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/05/2024,Joint,ODFL,"Old Dominion Freight Line, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/05/2024,Joint,ODFL,"Old Dominion Freight Line, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/05/2024,Joint,NFLX,"Netflix, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/05/2024,Joint,MSI,"Motorola Solutions, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/05/2024,Joint,NTES,Netease Inc ADR,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/05/2024,Joint,LULU,lululemon athletica inc. - Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/05/2024,Joint,LSCC,Lattice Semiconductor Corporation - Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/05/2024,Joint,JKHY,"Jack Henry & Associates, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/05/2024,Joint,PAC,"Grupo Aeroportuario Del Pacifico, S.A. B. de C.V.",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/05/2024,Joint,GILD,"Gilead Sciences, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/05/2024,Joint,DECK,Deckers Outdoor Corporation Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/05/2024,Joint,CBSH,"Commerce Bancshares, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/05/2024,Joint,BRO,"Brown & Brown, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/05/2024,Joint,A,"Agilent Technologies, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/04/2024,Joint,AMAT,"Applied Materials, Inc. - Common Stock Option Type: Put Strike price: $135.00 Expires: 09/20/2024",Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/04/2024,Joint,WU,Western Union Company (The) Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/04/2024,Joint,AMAT,"Applied Materials, Inc. - Common Stock Option Type: Put Strike price: $180.00 Expires: 01/17/2025",Stock Option,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,05/15/2024
+04/04/2024,Joint,AMAT,"Applied Materials, Inc. - Common Stock Option Type: Put Strike price: $175.00 Expires: 01/17/2025",Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/04/2024,Joint,SSD,"Simpson Manufacturing Company, Inc. Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/04/2024,Joint,ROK,"Rockwell Automation, Inc. Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/04/2024,Joint,QSR,Restaurant Brands International Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/04/2024,Joint,REGN,"Regeneron Pharmaceuticals, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/04/2024,Joint,PHM,"PulteGroup, Inc. Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/04/2024,Joint,PAYC,"Paycom Software, Inc. Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/04/2024,Joint,NDAQ,"Nasdaq, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/04/2024,Joint,KEYS,Keysight Technologies Inc. Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/03/2024,Joint,LSCC,Lattice Semiconductor Corporation - Common Stock Option Type: Put Strike price: $70.00 Expires: 09/20/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/03/2024,Joint,BMY,Bristol-Myers Squibb Company Common Stock Option Type: Put Strike price: $50.00 Expires: 06/21/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/03/2024,Joint,ABBV,AbbVie Inc. Common Stock Option Type: Put Strike price: $130.00 Expires: 09/20/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/03/2024,Joint,GILD,"Gilead Sciences, Inc. - Common Stock Option Type: Put Strike price: $70.00 Expires: 11/15/2024",Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/03/2024,Joint,LSCC,Lattice Semiconductor Corporation - Common Stock Option Type: Put Strike price: $75.00 Expires: 01/17/2025,Stock Option,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,05/15/2024
+04/03/2024,Joint,MCHP,Microchip Technology Incorporated - Common Stock Option Type: Put Strike price: $80.00 Expires: 10/18/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/03/2024,Joint,MCHP,Microchip Technology Incorporated - Common Stock Option Type: Put Strike price: $80.00 Expires: 10/18/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/03/2024,Joint,CCJ,Cameco Corporation Common Stock Option Type: Put Strike price: $45.00 Expires: 09/20/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/03/2024,Joint,MCHP,Microchip Technology Incorporated - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/03/2024,Joint,LLY,Eli Lilly and Company Common Stock,Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,05/15/2024
+04/03/2024,Joint,FTNT,"Fortinet, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/03/2024,Joint,IEX,IDEX Corporation Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/03/2024,Joint,EXR,Extra Space Storage Inc Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/03/2024,Joint,BMY,Bristol-Myers Squibb Company Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,05/15/2024
+04/03/2024,Joint,AVGO,Broadcom Inc. - Common Stock,Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,05/15/2024
+04/23/2024,Spouse,JPM,JP Morgan Chase & Company,Stock,Sale (Partial),"$1,001 - $15,000",--,Capito,Shelley M,05/13/2024
+04/23/2024,Spouse,MSFT,Microsoft Corp,Stock,Sale (Partial),"$1,001 - $15,000",--,Capito,Shelley M,05/13/2024
+04/23/2024,Spouse,AAPL,Apple Inc,Stock,Sale (Partial),"$1,001 - $15,000",--,Capito,Shelley M,05/13/2024
+04/09/2024,Spouse,MSFT,Microsoft Corp,Stock,Sale (Partial),"$1,001 - $15,000",--,Capito,Shelley M,05/13/2024
+04/09/2024,Spouse,GWW,W.W. Grainger,Stock,Sale (Partial),"$1,001 - $15,000",--,Capito,Shelley M,05/13/2024
+04/09/2024,Spouse,SPGI,S&P Global Inc,Stock,Sale (Partial),"$1,001 - $15,000",--,Capito,Shelley M,05/13/2024
+04/09/2024,Spouse,AAPL,Apple Inc,Stock,Sale (Partial),"$1,001 - $15,000",--,Capito,Shelley M,05/13/2024
+04/24/2024,Self,--,Houston Texas Utility Sys Revenue Bond Rate/Coupon: 5.25% Matures: 11/15/2049,Municipal Security,Purchase,"$100,001 - $250,000",--,Scott,Rick,05/10/2024
+04/24/2024,Spouse,--,Houston Texas Utility Sys Revenue Bond Rate/Coupon: 5.25% Matures: 11/15/2049,Municipal Security,Purchase,"$250,001 - $500,000",--,Scott,Rick,05/10/2024
+04/24/2024,Self,--,Houston Texas Utility Sys Revenue Bond Rate/Coupon: 5.25% Matures: 11/15/2049,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Scott,Rick,05/10/2024
+04/24/2024,Spouse,--,Houston Texas Utility Sys Revenue Bond Rate/Coupon: 5.25% Matures: 11/15/2049,Municipal Security,Purchase,"$250,001 - $500,000",--,Scott,Rick,05/10/2024
+04/10/2024,Self,--,New York City Transitional Finance Auth Revenue Bond Rate/Coupon: 5.0% Matures: 02/01/2041,Municipal Security,Sale (Full),"$100,001 - $250,000",--,Scott,Rick,05/10/2024
+04/10/2024,Self,--,New York City Transitional Finance Auth Revenue Bond Rate/Coupon: 5.0% Matures: 02/01/2041,Municipal Security,Sale (Full),"$500,001 - $1,000,000",--,Scott,Rick,05/10/2024
+04/10/2024,Spouse,--,New York City Transitional Finance Auth Revenue Bond Rate/Coupon: 5.0% Matures: 02/01/2041,Municipal Security,Sale (Full),"$250,001 - $500,000",--,Scott,Rick,05/10/2024
+04/10/2024,Spouse,--,Will County IL General Obligation Bond Rate/Coupon: 5.0% Matures: 11/15/2041,Municipal Security,Sale (Full),"$500,001 - $1,000,000",--,Scott,Rick,05/10/2024
+04/10/2024,Spouse,--,Will County IL General Obligation Bond Rate/Coupon: 5.0% Matures: 11/15/2041,Municipal Security,Sale (Full),"$50,001 - $100,000",--,Scott,Rick,05/10/2024
+04/10/2024,Self,--,Main Str Nat Gas Inc Georgia Revenue Bond Rate/Coupon: 5.0% Matures: 12/01/2054,Municipal Security,Purchase,"$100,001 - $250,000",--,Scott,Rick,05/10/2024
+04/10/2024,Spouse,--,Main Str Nat Gas Inc Georgia Revenue Bond Rate/Coupon: 5.0% Matures: 12/01/2054,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Scott,Rick,05/10/2024
+04/10/2024,Self,--,Main Str Nat Gas Inc Georgia Revenue Bond Rate/Coupon: 5.0% Matures: 12/01/2054,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Scott,Rick,05/10/2024
+04/10/2024,Spouse,--,Main Str Nat Gas Inc Georgia Revenue Bond Rate/Coupon: 5.0% Matures: 12/01/2054,Municipal Security,Purchase,"$250,001 - $500,000",--,Scott,Rick,05/10/2024
+12/28/2023,Self,VIG,Vanguard Div Appreciation ETF,Stock,Sale (Partial),"$15,001 - $50,000",--,Graham,Lindsey,05/08/2024
+12/28/2023,Self,USFR,Wisdomtree Floating Rate Treasury Fund,Stock,Purchase,"$15,001 - $50,000",--,Graham,Lindsey,05/08/2024
+03/28/2024,Joint,HES,Hess Corp,Stock,Sale (Full),"$1,001 - $15,000",--,Boozman,John,05/08/2024
+03/28/2024,Joint,AMAT,Applied Materials,Stock,Purchase,"$1,001 - $15,000",--,Boozman,John,05/08/2024
+02/20/2024,Joint,SCHP,Schwab U.S. TIPS ETF,Stock,Sale (Partial),"$1,001 - $15,000",--,Boozman,John,05/08/2024
+02/20/2024,Joint,IEF,iShares 7-10 Year Treasury Bond ETF,Stock,Sale (Partial),"$1,001 - $15,000",--,Boozman,John,05/08/2024
+02/20/2024,Joint,TLH,iShares 10-20 Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--,Boozman,John,05/08/2024
+02/20/2024,Joint,TLT,iShares 20+ Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--,Boozman,John,05/08/2024
+04/11/2024,Joint,EFA,iShares MSCI EAFE ETF,Stock,Sale (Partial),"$15,001 - $50,000",--,Boozman,John,05/07/2024
+04/16/2024,Joint,CMBS,iShares CMBS Bond ETF,Stock,Sale (Partial),"$1,001 - $15,000",--,Boozman,John,05/07/2024
+04/16/2024,Joint,JMBS,Janus Henderson Mortgage-Backed Securities ETF,Stock,Purchase,"$1,001 - $15,000",--,Boozman,John,05/07/2024
+04/11/2024,Joint,SCZ,iShares MSCI EAFE Small-Cap ETF,Stock,Purchase,"$15,001 - $50,000",--,Boozman,John,05/07/2024
+04/03/2024,Self,ZTS,Zoetis Inc. Class A Common Stock,Stock,Sale (Partial),"$1,001 - $15,000",--,Mullin,Markwayne,05/02/2024
+04/03/2024,Joint,ZTS,Zoetis Inc. Class A Common Stock,Stock,Sale (Partial),"$1,001 - $15,000",--,Mullin,Markwayne,05/01/2024
+04/11/2024,Spouse,VLO,Valero Energy Corp,Stock,Sale (Partial),"$1,001 - $15,000",--,Carper,Thomas R,04/30/2024
+04/11/2024,Spouse,ENB,Enbridge Inc,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,04/30/2024
+04/01/2024,Spouse,--,JPM CONTINGENT AUTOCALL C Rate/Coupon: 10% Matures: 04/01/2024,Corporate Bond,Sale (Full),"$15,001 - $50,000",--,Carper,Thomas R,04/30/2024
+03/22/2024,Self,UL,Unilever Plc ADR,Stock,Sale (Full),"$1,001 - $15,000",--,Whitehouse,Sheldon,04/24/2024
+03/13/2024,Self,CMCSA,Comcast Corp A,Stock,Sale (Full),"$15,001 - $50,000",--,Whitehouse,Sheldon,04/24/2024
+04/15/2024,Spouse,GS,Goldman Sachs Group,Stock,Sale (Partial),"$250,001 - $500,000",--,Cruz,Rafael E,04/24/2024
+04/04/2024,Spouse,PODD,Insulet Corporation - Common Stock,Stock,Sale (Partial),"$50,001 - $100,000",--,Smith,Tina,04/19/2024
+04/04/2024,Spouse,NEE,Nextera Energy,Stock,Sale (Partial),"$100,001 - $250,000",--,Smith,Tina,04/19/2024
+03/07/2024,Spouse,VZ,Verizon Communications Inc,Stock,Purchase,"$1,001 - $15,000",--,"King, Jr.",Angus S,04/17/2024
+03/21/2024,Joint,WBA,"Walgreens Boots Alliance, Inc. - Common Stock",Stock,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,04/15/2024
+03/21/2024,Joint,PARA,Paramount Global - Class B Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,04/15/2024
+03/21/2024,Joint,--,ROLLS-ROYCE HOLDINGS PLC SPONSORED ADR,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,04/15/2024
+03/21/2024,Joint,--,ROLLS-ROYCE HOLDINGS PLC SPONSORED ADR,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,04/15/2024
+03/21/2024,Joint,HUMA,Humacyte Inc,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,04/15/2024
+03/21/2024,Joint,HUMA,"Humacyte, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,04/15/2024
+03/21/2024,Joint,HUMA,"Humacyte, Inc. - Common Stock",Stock,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,04/15/2024
+03/13/2024,Joint,QCOM,QUALCOMM Incorporated - Common Stock Option Type: Put Strike price: $155.00 Expires: 12/20/2024,Stock Option,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,04/15/2024
+03/13/2024,Joint,ADBE,Adobe Systems Inc Option Type: Put Strike price: $500.00 Expires: 12/20/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,04/15/2024
+03/13/2024,Joint,ADBE,Adobe Systems Inc Option Type: Put Strike price: $500.00 Expires: 12/20/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,04/15/2024
+03/13/2024,Joint,ADBE,Adobe Systems Inc Option Type: Put Strike price: $500.00 Expires: 12/20/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,04/15/2024
+03/13/2024,Joint,ADBE,Adobe Systems Inc Option Type: Put Strike price: $500.00 Expires: 12/20/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,04/15/2024
+03/08/2024,Joint,AMAT,"Applied Materials, Inc. - Common Stock Option Type: Put Strike price: $175.00 Expires: 01/17/2025",Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,04/15/2024
+03/12/2024,Self,--,FEDERAL HOME LN MTG CORP MTN Rate/Coupon: 5.375% Matures: 02/08/2027,Corporate Bond,Purchase,"$100,001 - $250,000",--,Tuberville,Thomas H,04/15/2024
+03/12/2024,Self,AAPL,Apple Inc,Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,04/15/2024
+03/12/2024,Joint,ACN,Accenture Plc,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,04/15/2024
+03/12/2024,Joint,CSX,CSX Corporation - Common Stock,Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,04/15/2024
+03/12/2024,Joint,JPM,JP Morgan Chase & Co. Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,04/15/2024
+03/12/2024,Joint,TXN,Texas Instruments Incorporated - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,04/15/2024
+03/27/2024,Spouse,UPS,"United Parcel Service, Inc. Common Stock",Stock,Sale (Full),"$100,001 - $250,000",--,Wyden,Ron L,04/12/2024
+03/27/2024,Spouse,--,Ohio State Water Dev Auth Revenue Bond Rate/Coupon: 5.0% Matures: 06/01/2046,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Scott,Rick,04/12/2024
+03/27/2024,Self,--,Ohio State Water Dev Auth Revenue Bond Rate/Coupon: 5.0% Matures: 06/01/2046,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Scott,Rick,04/12/2024
+03/27/2024,Spouse,--,Ohio State Water Dev Auth Revenue Bond Rate/Coupon: 5.0% Matures: 06/01/2046,Municipal Security,Purchase,"$250,001 - $500,000",--,Scott,Rick,04/12/2024
+03/21/2024,Self,--,New York State Dorm Auth Personal Income Tax Revenue Bond Rate/Coupon: 5.0% Matures: 03/15/2031,Municipal Security,Sale (Full),"$100,001 - $250,000",--,Scott,Rick,04/12/2024
+03/21/2024,Spouse,--,New York State Urban Development Corp Revenue Bond Rate/Coupon: 5.0% Matures: 03/15/2037,Municipal Security,Sale (Full),"$250,001 - $500,000",--,Scott,Rick,04/12/2024
+03/21/2024,Self,--,Washington County Oregon School District General Obligation Bond Rate/Coupon: 5.0% Matures: 06/15/2027,Municipal Security,Sale (Full),"$500,001 - $1,000,000",--,Scott,Rick,04/12/2024
+03/21/2024,Spouse,--,Washington County Oregon School District General Obligation Bond Rate/Coupon: 5.0% Matures: 06/15/2027,Municipal Security,Sale (Full),"$250,001 - $500,000",--,Scott,Rick,04/12/2024
+03/20/2024,Self,--,New Jersey State Turnpike Revenue Bond Rate/Coupon: 5.25% Matures: 01/01/2049,Municipal Security,Purchase,"$100,001 - $250,000",--,Scott,Rick,04/12/2024
+03/20/2024,Spouse,--,New Jersey State Turnpike Revenue Bond Rate/Coupon: 5.25% Matures: 01/01/2049,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Scott,Rick,04/12/2024
+03/20/2024,Self,--,New Jersey State Turnpike Revenue Bond Rate/Coupon: 5.25% Matures: 01/01/2049,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Scott,Rick,04/12/2024
+03/20/2024,Spouse,--,New Jersey State Turnpike Revenue Bond Rate/Coupon: 5.25% Matures: 01/01/2049,Municipal Security,Purchase,"$250,001 - $500,000",--,Scott,Rick,04/12/2024
+03/14/2024,Spouse,--,Tampa Bay Water Florida Regional Water Supply Auth Revenue Bond Rate/Coupon: 5.0% Matures: 10/01/2037,Municipal Security,Sale (Full),"$250,001 - $500,000",--,Scott,Rick,04/12/2024
+03/14/2024,Self,--,New York State Urban Development Corp Revenue Bond Rate/Coupon: 5.0% Matures: 03/15/2037,Municipal Security,Sale (Full),"$100,001 - $250,000",--,Scott,Rick,04/12/2024
+03/14/2024,Spouse,--,New York State Urban Development Corp Revenue Bond Rate/Coupon: 5.0% Matures: 03/15/2037,Municipal Security,Sale (Full),"$250,001 - $500,000",--,Scott,Rick,04/12/2024
+03/14/2024,Self,--,University of Maryland Sys Auxiliary Fac & Tuit Revenue Bond Rate/Coupon: 4.0% Matures: 04/01/2041,Municipal Security,Purchase,"$100,001 - $250,000",--,Scott,Rick,04/12/2024
+03/14/2024,Spouse,--,University of Maryland Sys Auxiliary Fac & Tuit Revenue Bond Rate/Coupon: 4.0% Matures: 04/01/2041,Municipal Security,Purchase,"$250,001 - $500,000",--,Scott,Rick,04/12/2024
+03/14/2024,Self,--,University of Maryland Sys Auxiliary Fac & Tuit Revenue Bond Rate/Coupon: 4.0% Matures: 04/01/2041,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Scott,Rick,04/12/2024
+03/14/2024,Spouse,--,University of Maryland Sys Auxiliary Fac & Tuit Revenue Bond Rate/Coupon: 4.0 Matures: 04/01/2041,Municipal Security,Purchase,"$250,001 - $500,000",--,Scott,Rick,04/12/2024
+03/12/2024,Spouse,LSXMK,Liberty Media Corporation - Series C Liberty Siriu,Stock,Sale (Partial),"$15,001 - $50,000",--,Hickenlooper,John W,04/11/2024
+03/12/2024,Spouse,--,FWONK - Formula One Group,Stock,Sale (Partial),"$50,001 - $100,000",--,Hickenlooper,John W,04/11/2024
+03/18/2024,Spouse,--,RYDER SYSTEM INC Rate/Coupon: 3.65% Matures: 03/18/2024,Corporate Bond,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,03/29/2024
+03/28/2024,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,03/29/2024
+03/28/2024,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,03/29/2024
+03/28/2024,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,03/29/2024
+03/28/2024,Spouse,D,Dominion Energy Inc,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,03/29/2024
+03/28/2024,Spouse,MOS,Mosaic Company,Stock,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,03/29/2024
+03/28/2024,Spouse,NTR,Nutrien Ltd,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,03/29/2024
+03/26/2024,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$15,001 - $50,000",--,Carper,Thomas R,03/29/2024
+03/26/2024,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$15,001 - $50,000",--,Carper,Thomas R,03/29/2024
+03/26/2024,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$50,001 - $100,000",--,Carper,Thomas R,03/29/2024
+03/26/2024,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$50,001 - $100,000",--,Carper,Thomas R,03/29/2024
+03/25/2024,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,03/29/2024
+03/25/2024,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,03/29/2024
+03/21/2024,Spouse,INOD,Innodata Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,03/29/2024
+03/21/2024,Spouse,SOFI,Sofi Technologies Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,03/29/2024
+03/21/2024,Spouse,ALTM,Arcadium Lithium Plc,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,03/29/2024
+03/19/2024,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$50,001 - $100,000",--,Carper,Thomas R,03/29/2024
+03/19/2024,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$50,001 - $100,000",--,Carper,Thomas R,03/29/2024
+03/19/2024,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$50,001 - $100,000",--,Carper,Thomas R,03/29/2024
+03/18/2024,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,03/29/2024
+03/15/2024,Spouse,--,TAMPA ELECTRIC CO Rate/Coupon: 4.9% Matures: 03/01/2029,Corporate Bond,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,03/29/2024
+03/13/2024,Spouse,CEF,Sprott Physical Gold & Silver Trust,Other Securities,Sale (Partial),"$1,001 - $15,000",--,Carper,Thomas R,03/29/2024
+03/13/2024,Spouse,CEF,Sprott Physical Gold & Silver Trust,Other Securities,Sale (Partial),"$1,001 - $15,000",--,Carper,Thomas R,03/29/2024
+03/13/2024,Spouse,SQM,Sociedad Quimica Y Minera S.A. ADR,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,03/29/2024
+03/13/2024,Spouse,CEF,Sprott Physical Gold & Silver Trust,Other Securities,Sale (Partial),"$1,001 - $15,000",--,Carper,Thomas R,03/29/2024
+03/13/2024,Spouse,GLD,SPDR Gold Trust,Other Securities,Sale (Partial),"$1,001 - $15,000",--,Carper,Thomas R,03/29/2024
+03/11/2024,Spouse,ETRN,Equitrans Midstream Corp,Stock,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,03/29/2024
+03/07/2024,Spouse,NVDA,Nvidia Corp,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,03/29/2024
+03/07/2024,Spouse,AAPL,Apple Inc,Stock,Sale (Partial),"$1,001 - $15,000",--,Carper,Thomas R,03/29/2024
+03/05/2024,Self,ICLN,Global Clean Energy Ishares ETF,Other Securities,Purchase,"$50,001 - $100,000",--,Carper,Thomas R,03/29/2024
+03/05/2024,Spouse,WFC,Wells Fargo & Company,Stock,Purchase,"$1,001 - $15,000",Dividend Reinvestment,"McConnell, Jr.",A. Mitchell,03/19/2024
+03/05/2024,Self,--,Port Authority of NY & NJ Bonds 218 Series Rate/Coupon: 5.0% Matures: 11/01/2032,Municipal Security,Sale (Full),"$500,001 - $1,000,000",--,Scott,Rick,03/15/2024
+03/05/2024,Self,--,New York State Urban Development Corp Revenue Bond Rate/Coupon: 5.0% Matures: 03/15/2037,Municipal Security,Sale (Full),"$500,001 - $1,000,000",--,Scott,Rick,03/15/2024
+03/04/2024,Self,--,El Paso Texas Water & Sewer Revenue Bond Rate/Coupon: 5.0% Matures: 03/01/2046,Municipal Security,Purchase,"$100,001 - $250,000",--,Scott,Rick,03/15/2024
+03/04/2024,Spouse,--,El Paso Texas Water & Sewer Revenue Bond Rate/Coupon: 5.0% Matures: 03/01/2046,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Scott,Rick,03/15/2024
+03/04/2024,Self,--,El Paso Texas Water & Sewer Revenue Bond Rate/Coupon: 5.0% Matures: 03/01/2046,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Scott,Rick,03/15/2024
+03/04/2024,Spouse,--,El Paso Texas Water & Sewer Revenue Bond Rate/Coupon: 5.0% Matures: 03/01/2046,Municipal Security,Purchase,"$250,001 - $500,000",--,Scott,Rick,03/15/2024
+02/15/2024,Self,--,King County Washington Sewer Revenue Bond Rate/Coupon: 0.875% Matures: 01/01/2042,Municipal Security,Sale (Full),"$100,001 - $250,000",--,Scott,Rick,03/15/2024
+02/15/2024,Self,--,Port Authority of NY & NJ Bonds 218 Series Rate/Coupon: 5.0% Matures: 11/01/2030,Municipal Security,Sale (Full),"$100,001 - $250,000",--,Scott,Rick,03/15/2024
+02/15/2024,Spouse,--,Port Authority of NY & NJ Bonds 218 Series Rate/Coupon: 5.0% Matures: 11/01/2030,Municipal Security,Sale (Full),"$250,001 - $500,000",--,Scott,Rick,03/15/2024
+02/15/2024,Spouse,--,Ysleta Texas Independent School District Ref Bond Rate/Coupon: 4.0% Matures: 08/15/2031,Municipal Security,Sale (Full),"$250,001 - $500,000",--,Scott,Rick,03/15/2024
+02/15/2024,Self,--,Ysleta Texas Independent School District Ref Bond Rate/Coupon: 4.0% Matures: 08/15/2031,Municipal Security,Sale (Full),"$500,001 - $1,000,000",--,Scott,Rick,03/15/2024
+02/15/2024,Spouse,--,Port Authority of NY & NJ Bonds 218 Series Rate/Coupon: 5.0% Matures: 11/01/2030,Municipal Security,Sale (Full),"$250,001 - $500,000",--,Scott,Rick,03/15/2024
+02/15/2024,Spouse,--,California General Obligation Bond Rate/Coupon: 5.0% Matures: 04/01/2049,Municipal Security,Sale (Full),"$250,001 - $500,000",--,Scott,Rick,03/15/2024
+02/14/2024,Self,--,Pennsylvania Higher Education Facs Auth Revenue Bond Rate/Coupon: 5.0% Matures: 08/15/2049,Municipal Security,Purchase,"$100,001 - $250,000",--,Scott,Rick,03/15/2024
+02/14/2024,Self,--,Pennsylvania Higher Education Facs Auth Revenue Bond Rate/Coupon: 5.0% Matures: 08/15/2049,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Scott,Rick,03/15/2024
+02/14/2024,Spouse,--,Pennsylvania Higher Education Facs Auth Revenue Bond Rate/Coupon: 5.0% Matures: 08/15/2049,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Scott,Rick,03/15/2024
+02/14/2024,Spouse,--,Pennsylvania Higher Education Facs Auth Revenue Bond Rate/Coupon: 5.0% Matures: 08/15/2049,Municipal Security,Purchase,"$250,001 - $500,000",--,Scott,Rick,03/15/2024
+02/27/2024,Joint,QCOM,QUALCOMM Incorporated - Common Stock Option Type: Put Strike price: $150.00 Expires: 12/20/2024,Stock Option,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,03/15/2024
+02/27/2024,Joint,SBLK,Star Bulk Carriers Corp. - Common Shares,Stock,Purchase,"$50,001 - $100,000",--,Tuberville,Thomas H,03/15/2024
+02/27/2024,Joint,SSBK,"Southern States Bancshares, Inc. - Common Stock",Stock,Purchase,"$50,001 - $100,000",--,Tuberville,Thomas H,03/15/2024
+02/27/2024,Joint,PFE,"Pfizer, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,03/15/2024
+02/27/2024,Joint,GOGL,Golden Ocean Group Limited - Common Stock,Stock,Purchase,"$50,001 - $100,000",--,Tuberville,Thomas H,03/15/2024
+02/16/2024,Joint,AMAT,"Applied Materials, Inc. - Common Stock Option Type: Put Strike price: $180.00 Expires: 01/17/2025",Stock Option,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,03/15/2024
+02/12/2024,Joint,KEY,KeyCorp Common Stock Option Type: Put Strike price: $15.00 Expires: 09/20/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,03/15/2024
+02/12/2024,Joint,HUMA,"Humacyte, Inc. - Common Stock",Stock,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,03/15/2024
+02/27/2024,Spouse,ZTS,Zoetis Inc Cl A,Stock,Purchase,"$15,001 - $50,000",--,Capito,Shelley M,03/15/2024
+02/23/2024,Spouse,SBUX,Starbucks Corp,Stock,Purchase,"$15,001 - $50,000",--,Capito,Shelley M,03/15/2024
+02/15/2024,Spouse,BDX,Becton Dickinson and Company,Stock,Sale (Full),"$1,001 - $15,000",--,Capito,Shelley M,03/15/2024
+02/09/2024,Spouse,MDT,Medtronic Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Capito,Shelley M,03/15/2024
+02/06/2024,Self,--,"W.L. Gore & Associates, Inc. Company: W.L. Gore & Associates, Inc.
+                                                    
+                                                         (Newark, DE) Description: Advanced materials manufacturing",Non-Public Stock,Sale (Partial),"$50,001 - $100,000",--,Coons,Christopher A,03/06/2024
+02/06/2024,Self,--,"W.L. Gore & Associates, Inc. Company: W.L. Gore & Associates, Inc.
+                                                    
+                                                         (Newark, DE) Description: Advanced materials manufacturing",Non-Public Stock,Sale (Partial),"$100,001 - $250,000",--,Coons,Christopher A,03/06/2024
+02/22/2024,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,03/04/2024
+02/16/2024,Spouse,TGT,Target Corp,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,03/04/2024
+02/16/2024,Spouse,EQNR,Equinor ASA,Stock,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,03/04/2024
+02/08/2024,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$15,001 - $50,000",--,Carper,Thomas R,03/04/2024
+02/08/2024,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$100,001 - $250,000",--,Carper,Thomas R,03/04/2024
+02/08/2024,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$50,001 - $100,000",--,Carper,Thomas R,03/04/2024
+02/08/2024,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$50,001 - $100,000",--,Carper,Thomas R,03/04/2024
+02/07/2024,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,03/04/2024
+02/06/2024,Joint,--,Grady County OKLA SCH FIN Auth E Rate/Coupon: 4.0% Matures: 09/01/2031,Municipal Security,Purchase,"$100,001 - $250,000",--,Mullin,Markwayne,03/01/2024
+02/08/2024,Joint,--,Canadian County OKLA EDL FACS Rate/Coupon: 5.0% Matures: 09/01/2029,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,03/01/2024
+01/11/2024,Self,--,Virginia ST Res Auth Rate/Coupon: 5.0% Matures: 11/01/2036,Municipal Security,Purchase,"$50,001 - $100,000",--,Warner,Mark R,02/16/2024
+01/10/2024,Self,--,Petersburg VA Go BDS Rate/Coupon: 4.25% Matures: 09/01/2048,Municipal Security,Purchase,"$100,001 - $250,000",--,Warner,Mark R,02/16/2024
+01/10/2024,Self,--,Virginia Comwlth Transn Rate/Coupon: 4.0% Matures: 05/15/2047,Municipal Security,Purchase,"$250,001 - $500,000",--,Warner,Mark R,02/16/2024
+01/08/2024,Self,--,Los Angeles CNTY CA Met Rate/Coupon: 5.0% Matures: 07/01/2042,Municipal Security,Purchase,"$100,001 - $250,000",--,Warner,Mark R,02/16/2024
+01/08/2024,Self,--,Metropolitan ST Louis MO Rate/Coupon: 5.0% Matures: 05/01/2036,Municipal Security,Purchase,"$100,001 - $250,000",--,Warner,Mark R,02/16/2024
+01/04/2024,Self,--,Virginia Comwlth Transn Rate/Coupon: 4.0% Matures: 05/15/2038,Municipal Security,Purchase,"$250,001 - $500,000",--,Warner,Mark R,02/16/2024
+01/03/2024,Self,--,Richmond VA Pub Util Rev Ser A Rate/Coupon: 4.0% Matures: 01/15/2050,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,02/16/2024
+01/03/2024,Self,--,Bexar CNTY TX Hosp Dist CTFS Oblig LTD Tax Rate/Coupon: 4.25% Matures: 02/15/2052,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,02/16/2024
+01/26/2024,Joint,--,Broken Arrow OKLA Rate/Coupon: 4.0% Matures: 09/01/2035,Municipal Security,Purchase,"$100,001 - $250,000",--,Mullin,Markwayne,02/15/2024
+01/24/2024,Joint,--,McClain County OKLA Economic DEV Rate/Coupon: 4.0% Matures: 09/01/2033,Municipal Security,Purchase,"$100,001 - $250,000",--,Mullin,Markwayne,02/15/2024
+01/23/2024,Joint,--,Tulsa County OKLA INDPT SCH DIST Rate/Coupon: 4.5% Matures: 03/01/2026,Municipal Security,Purchase,"$100,001 - $250,000",--,Mullin,Markwayne,02/15/2024
+01/19/2024,Joint,--,Oklahoma Cnty Okla Fin Auth Ed Rate/Coupon: 5.0% Matures: 10/01/2024,Municipal Security,Purchase,"$100,001 - $250,000",--,Mullin,Markwayne,02/15/2024
+01/18/2024,Joint,--,Oklahoma State University Agricultural Rate/Coupon: 5.0% Matures: 09/01/2032,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,02/15/2024
+01/24/2024,Joint,INTC,Intel Corporation - Common Stock Option Type: Put Strike price: $45.00 Expires: 12/20/2024,Stock Option,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,02/14/2024
+01/22/2024,Joint,CLF,Cleveland-Cliffs Inc. Common Stock Option Type: Put Strike price: $17.00 Expires: 01/17/2025,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/22/2024,Joint,CLF,Cleveland-Cliffs Inc. Common Stock Option Type: Put Strike price: $17.00 Expires: 01/17/2025,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/22/2024,Joint,CLF,Cleveland-Cliffs Inc. Common Stock Option Type: Put Strike price: $17.00 Expires: 01/17/2025,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/22/2024,Joint,CLF,Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $20.00 Expires: 11/15/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/22/2024,Joint,CLF,Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $20.00 Expires: 11/15/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/22/2024,Joint,SCCO,Southern Copper Corporation Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/22/2024,Joint,MNST,Monster Beverage Corporation - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/22/2024,Joint,MMC,"Marsh & McLennan Companies, Inc. Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/22/2024,Joint,IDXX,"IDEXX Laboratories, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/22/2024,Joint,META,"Meta Platforms, Inc. - Class A Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/22/2024,Joint,CLF,Cleveland-Cliffs Inc. Common Stock,Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,02/14/2024
+01/22/2024,Joint,CLF,Cleveland-Cliffs Inc. Common Stock,Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,02/14/2024
+01/22/2024,Joint,CLF,Cleveland-Cliffs Inc. Common Stock,Stock,Sale (Partial),"$50,001 - $100,000",--,Tuberville,Thomas H,02/14/2024
+01/22/2024,Joint,CLF,Cleveland-Cliffs Inc. Common Stock,Stock,Sale (Partial),"$50,001 - $100,000",--,Tuberville,Thomas H,02/14/2024
+01/22/2024,Joint,AON,Aon plc Class A Ordinary Shares (Ireland),Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,PG,Procter & Gamble Company (The) Common Stock Option Type: Put Strike price: $150.00 Expires: 01/19/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,XP,XP Inc. - Class A Common Stock,Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,SSBK,"Southern States Bancshares, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,SSBK,"Southern States Bancshares, Inc. - Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,SSBK,"Southern States Bancshares, Inc. - Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,SSBK,"Southern States Bancshares, Inc. - Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,SSBK,"Southern States Bancshares, Inc. - Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,SSBK,"Southern States Bancshares, Inc. - Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,SSBK,"Southern States Bancshares, Inc. - Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,SSBK,"Southern States Bancshares, Inc. - Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,SSBK,"Southern States Bancshares, Inc. - Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,SSBK,"Southern States Bancshares, Inc. - Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,SSBK,"Southern States Bancshares, Inc. - Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,SSBK,"Southern States Bancshares, Inc. - Common Stock",Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,PAM,Pampa Energia S.A. ADR,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,NVO,Novo Nordisk A/S Common Stock,Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,LRCX,Lam Research Corporation - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,IBM,International Business Machines Corporation Common,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,GNTX,Gentex Corporation - Common Stock,Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,RACE,Ferrari N.V. Common Shares,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,CFG,"Citizens Financial Group, Inc. Common Stock",Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,ADSK,"Autodesk, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,AMAT,"Applied Materials, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,AAPL,Apple Inc. - Common Stock,Stock,Sale (Full),"$250,001 - $500,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,ADI,"Analog Devices, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,APH,Amphenol Corporation Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,AMGN,Amgen Inc. - Common Stock,Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,AME,"AMETEK, Inc.",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,GOOGL,Alphabet Inc. - Class A Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,GOOG,Alphabet Inc. - Class C Capital Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,AMD,"Advanced Micro Devices, Inc. - Common Stock",Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,ADBE,Adobe Inc. - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,ABBV,AbbVie Inc. Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Joint,HUMA,"Humacyte, Inc. - Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/10/2024,Joint,AAPL,Apple Inc. - Common Stock Option Type: Put Strike price: $165.00 Expires: 03/15/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/03/2024,Joint,GOOGL,Alphabet Inc. - Class A Common Stock,Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/03/2024,Joint,AAPL,Apple Inc. - Common Stock,Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,02/14/2024
+01/03/2024,Joint,BMY,Bristol-Myers Squibb Company Common Stock,Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/03/2024,Joint,LLY,Eli Lilly and Company Common Stock,Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,02/14/2024
+01/03/2024,Joint,MSFT,Microsoft Corporation - Common Stock,Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,02/14/2024
+01/03/2024,Joint,ORCL,Oracle Corporation Common Stock,Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,02/14/2024
+01/03/2024,Joint,SLF,Sun Life Financial Inc. Common Stock,Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,02/14/2024
+01/03/2024,Joint,DGX,Quest Diagnostics Incorporated Common Stock,Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,02/14/2024
+01/03/2024,Joint,UNP,Union Pacific Corporation Common Stock,Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,02/14/2024
+01/19/2024,Spouse,ES,Eversource Energy,Stock,Sale (Full),"$1,001 - $15,000",--,Capito,Shelley M,02/14/2024
+01/19/2024,Self,ENB,Enbridge Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Capito,Shelley M,02/14/2024
+01/24/2024,Joint,RPM,RPM International Inc. Common Stock,Stock,Sale (Partial),"$15,001 - $50,000",Third Party investment professional manages portfolio and oversees long-term diversification strategy that regularly includes similar transactions.,Sullivan,Daniel S,02/09/2024
+01/18/2024,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$15,001 - $50,000",--,Carper,Thomas R,02/02/2024
+01/18/2024,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$15,001 - $50,000",--,Carper,Thomas R,02/02/2024
+01/18/2024,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$15,001 - $50,000",--,Carper,Thomas R,02/02/2024
+01/17/2024,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,02/02/2024
+01/17/2024,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,02/02/2024
+01/17/2024,Spouse,GBIL,Goldman Sachs Access Treasury 0-1 Year ETF,Other Securities,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,02/02/2024
+01/16/2024,Spouse,--,BROADCOMCORP Rate/Coupon: 3.625% Matures: 01/15/2024,Corporate Bond,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,02/02/2024
+01/17/2024,Spouse,AES,The Aes Corp,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,02/02/2024
+01/17/2024,Spouse,TTE,TotalEnergies SE,Stock,Sale (Partial),"$1,001 - $15,000",--,Carper,Thomas R,02/02/2024
+01/17/2024,Spouse,SBUX,Starbucks Corp,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,02/02/2024
+01/17/2024,Spouse,VLO,Valero Energy Corp,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,02/02/2024
+01/17/2024,Spouse,MET,Metlife Inc,Stock,Sale (Partial),"$1,001 - $15,000",--,Carper,Thomas R,02/02/2024
+01/17/2024,Spouse,CME,CME Group Inc,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,02/02/2024
+01/17/2024,Spouse,ETRN,Equitrans Midstream Corp,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,02/02/2024
+01/17/2024,Spouse,GBIL,Goldman Sachs Access Treasury 0-1 Year ETF,Other Securities,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,02/02/2024
+01/17/2024,Spouse,ABT,Abbott Laboratories,Stock,Sale (Partial),"$1,001 - $15,000",--,Carper,Thomas R,02/02/2024
+01/02/2024,Spouse,S,Sentinelone Inc Cl A,Stock,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,02/02/2024
+01/02/2024,Spouse,DELL,Dell Technologies Inc,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,02/02/2024
+01/18/2024,Joint,--,JOHNSTON CNTY N C GO REF BDS 2010-A Rate/Coupon: 5.0% Matures: 02/01/2024,Municipal Security,Sale (Full),"$50,001 - $100,000",--,Mullin,Markwayne,01/26/2024
+01/18/2024,Joint,--,CENTRAL WEBER UTAH SWR IMPT DIST SWR REV BDS 2023 Rate/Coupon: 5.0% Matures: 03/01/2024,Municipal Security,Sale (Full),"$50,001 - $100,000",--,Mullin,Markwayne,01/26/2024
+01/18/2024,Joint,--,AUSTIN TEX PUB IMPT REF BDS 2023 Rate/Coupon: 5.0% Matures: 09/01/2024,Municipal Security,Sale (Full),"$15,001 - $50,000",--,Mullin,Markwayne,01/26/2024
+01/18/2024,Joint,--,KAUKAUNA WIS ANTIC NTS 2023B Rate/Coupon: 5.0% Matures: 06/01/2028,Municipal Security,Sale (Full),"$50,001 - $100,000",--,Mullin,Markwayne,01/26/2024
+01/03/2024,Joint,--,Canadian County Educational Facilities Authority Rate/Coupon: 5.0% Matures: 09/01/2027,Municipal Security,Purchase,"$100,001 - $250,000",--,Mullin,Markwayne,01/26/2024
+01/10/2024,Joint,--,OK ST Capitol Impt Auth ST Highway Rate/Coupon: 5.0% Matures: 07/01/2025,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Spouse,ZTS,Zoetis Inc. Class A Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Spouse,SFM,"Sprouts Farmers Market, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Spouse,OLLI,"Ollie's Bargain Outlet Holdings, Inc. - Common Sto",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Spouse,GS,"Goldman Sachs Group, Inc. (The) Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Spouse,FRPT,"Freshpet, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Spouse,ETN,Eaton Corp,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Spouse,ELF,E.L.F. Beauty Inc,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Spouse,CYBR,CyberArk Software Ltd. - Ordinary Shares,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Spouse,BMI,"Badger Meter, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Spouse,AXON,Axon Enterprise Inc,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Self,ZTS,Zoetis Inc Cl A,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Self,SFM,Sprouts Farmers Market,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Self,OLLI,"Ollie's Bargain Outlet Holdings, Inc. - Common Sto",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Self,GS,"Goldman Sachs Group, Inc. (The) Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Self,FRPT,"Freshpet, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Self,ETN,Eaton Corp,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Self,ELF,E.L.F. Beauty Inc,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Self,CYBR,CyberArk Software Ltd. - Ordinary Shares,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Self,BMI,"Badger Meter, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/04/2024,Self,AXON,Axon Enterprise Inc,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/02/2024,Joint,ADBE,Adobe Systems Inc,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,01/26/2024
+01/02/2024,Joint,AMD,"Advanced Micro Devices, Inc. - Common Stock",Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,01/26/2024
+01/02/2024,Joint,AAPL,Apple Inc. - Common Stock,Stock,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,01/26/2024
+01/02/2024,Joint,AMAT,"Applied Materials, Inc. - Common Stock",Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,01/26/2024
+01/02/2024,Joint,META,Meta Platforms Inc,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,01/26/2024
+01/02/2024,Joint,LRCX,Lam Research Corp,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,01/26/2024
+01/02/2024,Joint,NVDA,NVIDIA Corporation - Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,01/26/2024
+12/22/2023,Self,SHOP,Shopify Inc,Stock,Sale (Partial),"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+12/22/2023,Self,PYPL,"PayPal Holdings, Inc. - Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+12/22/2023,Self,PODD,Insulet Corp,Stock,Sale (Partial),"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+12/22/2023,Self,INST,Instructure Holdings Inc,Stock,Sale (Partial),"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+12/22/2023,Self,HUBB,Hubbell Inc Common Stock,Stock,Sale (Partial),"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+12/22/2023,Self,FN,Fabrinet,Stock,Sale (Partial),"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+12/22/2023,Self,FCFS,"FirstCash Holdings, Inc. - Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+12/22/2023,Self,EXLS,"ExlService Holdings, Inc. - Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+12/22/2023,Self,CTVA,Corteva Inc,Stock,Sale (Partial),"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+12/22/2023,Self,CELH,Celsius Holdings Inc,Stock,Sale (Partial),"$1,001 - $15,000",--,Mullin,Markwayne,01/26/2024
+01/26/2024,Self,VIG,Vanguard Div Appreciation ETF,Stock,Sale (Partial),"$15,001 - $50,000",--,Graham,Lindsey,01/26/2024
+01/26/2024,Self,USFR,Wisdomtree Floating Rate Treasury Fund,Stock,Purchase,"$15,001 - $50,000",--,Graham,Lindsey,01/26/2024
+12/28/2023,Self,D,Dominion Energy Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Peters,Gary C,01/25/2024
+01/10/2024,Spouse,--,Washington DC Met Area Trans Auth Revenue Bond Rate/Coupon: 5.0% Matures: 07/15/2039,Municipal Security,Purchase,"$250,001 - $500,000",--,Scott,Rick,01/19/2024
+12/20/2023,Spouse,VAXX,"Vaxxinity, Inc. - Class A Common Stock",Stock,Sale (Full),"$1,001 - $15,000",Shares received as a distribution from an EIF.,Scott,Rick,01/19/2024
+12/20/2023,Spouse,VAXX,"Vaxxinity, Inc. - Class A Common Stock",Stock,Sale (Full),"$1,001 - $15,000",Shares received as a distribution from an EIF.,Scott,Rick,01/19/2024
+12/20/2023,Spouse,VAXX,"Vaxxinity, Inc. - Class A Common Stock",Stock,Sale (Full),"$1,001 - $15,000",Shares received as a distribution from an EIF.,Scott,Rick,01/19/2024
+12/14/2023,Spouse,SNOW,Snowflake Inc Cl A,Stock,Purchase,"$1,001 - $15,000",--,Whitehouse,Sheldon,01/18/2024
+12/14/2023,Spouse,LLY,Eli Lilly and Company,Stock,Purchase,"$1,001 - $15,000",--,Whitehouse,Sheldon,01/18/2024
+12/07/2023,Self,TGT,Target Corp,Stock,Sale (Full),"$15,001 - $50,000",--,Whitehouse,Sheldon,01/18/2024
+12/07/2023,Self,KO,Coca-Cola Company,Stock,Purchase,"$1,001 - $15,000",--,Whitehouse,Sheldon,01/18/2024
+12/11/2023,Self,PFE,Pfizer Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Whitehouse,Sheldon,01/18/2024
+12/14/2023,Spouse,VZ,Verizon Communications Inc. Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,USB,U.S. Bancorp Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,CI,The Cigna Group Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,PII,Polaris Inc. Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,MSFT,Microsoft Corporation - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,META,"Meta Platforms, Inc. - Class A Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,KR,Kroger Company,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,KMB,Kimberly-Clark Corporation Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,JNJ,Johnson & Johnson Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,INTC,Intel Corporation - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,XOM,Exxon Mobil Corporation Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,DVA,DaVita Inc. Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,CVS,CVS Health Corporation Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,CMCSA,Comcast Corporation - Class A Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,CSCO,"Cisco Systems, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,CVX,Chevron Corporation Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,BRK.B,Berkshire Hathaway Cl B,Stock,Purchase,"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,BK,Bank of New York Mellon Corp,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,BAC,Bank of America Corp,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,AAPL,Apple Inc. - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Spouse,GOOG,Alphabet Cl C,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,VZ,Verizon Communications Inc. Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,USB,U.S. Bancorp Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,CI,The Cigna Group Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,PII,Polaris Inc. Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,PFE,"Pfizer, Inc. Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,MSFT,Microsoft Corporation - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,META,"Meta Platforms, Inc. - Class A Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,KR,Kroger Company (The) Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,KMB,Kimberly-Clark Corporation Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,JNJ,Johnson & Johnson Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,INTC,Intel Corporation - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,HAL,Halliburton Company,Stock,Sale (Full),"$15,001 - $50,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,XOM,Exxon Mobil Corporation Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,DVA,DaVita Inc. Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,CVS,CVS Health Corporation Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,CMCSA,Comcast Corporation - Class A Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,CSCO,"Cisco Systems, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,CVX,Chevron Corporation Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,BRK.B,Berkshire Hathaway Cl B,Stock,Purchase,"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,BK,Bank of New York Mellon Corp,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,BAC,Bank of America Corp,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,AAPL,Apple Inc. - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,AMZN,"Amazon.com, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/14/2023,Self,GOOG,Alphabet Cl C,Stock,Sale (Full),"$1,001 - $15,000",--,"Moran,  ",Jerry,01/17/2024
+12/27/2023,Self,--,Minneapolis & ST Paul MN Rate/Coupon: 5.00% Matures: 01/01/2034,Municipal Security,Purchase,"$250,001 - $500,000",--,Warner,Mark R,01/16/2024
+12/19/2023,Self,--,Virginia Small Business Rate/Coupon: 5.00% Matures: 10/01/2041,Municipal Security,Purchase,"$250,001 - $500,000",--,Warner,Mark R,01/16/2024
+12/18/2023,Self,--,Fairfax CNTY VA SWR Rev Rate/Coupon: 5.00% Matures: 07/15/2046,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,01/16/2024
+12/15/2023,Self,--,Virginia ST Pub BLDG Rate/Coupon: 4.00% Matures: 08/01/2039,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,01/16/2024
+12/13/2023,Self,--,Univ Of VA VA Univ Revenues Multi YR Cap Proj-Ser B Rate/Coupon: 4.00% Matures: 08/01/2048,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,01/16/2024
+12/13/2023,Self,--,Massachusetts ST Transn Rate/Coupon: 4.00% Matures: 06/01/2046,Municipal Security,Purchase,"$250,001 - $500,000",--,Warner,Mark R,01/16/2024
+12/13/2023,Self,--,Fairfax CNTY VA SWR Rev Rate/Coupon: 5.00% Matures: 07/15/2046,Municipal Security,Purchase,"$250,001 - $500,000",--,Warner,Mark R,01/16/2024
+12/13/2023,Self,--,University VA Univ Revs Rate/Coupon: 5.00% Matures: 04/01/2042,Municipal Security,Purchase,"$250,001 - $500,000",--,Warner,Mark R,01/16/2024
+12/12/2023,Self,--,Memphis TN Gen Impt BDS Rate/Coupon: 5.00% Matures: 10/01/2044,Municipal Security,Purchase,"$250,001 - $500,000",--,Warner,Mark R,01/16/2024
+12/11/2023,Self,--,Virginia ST HSG Dev Auth Rate/Coupon: 5.00% Matures: 11/01/2038,Municipal Security,Purchase,"$100,001 - $250,000",--,Warner,Mark R,01/16/2024
+12/11/2023,Self,--,Alexandria VA Go Cap Rate/Coupon: 4.00% Matures: 12/15/2042,Municipal Security,Purchase,"$100,001 - $250,000",--,Warner,Mark R,01/16/2024
+12/08/2023,Self,--,University Texas Univ Revs Fing SYS BDS Rate/Coupon: 5.00% Matures: 08/15/2043,Municipal Security,Purchase,"$100,001 - $250,000",--,Warner,Mark R,01/16/2024
+12/07/2023,Self,--,West VA ST ST RD BDS Bid Rate/Coupon: 5.00% Matures: 06/01/2041,Municipal Security,Purchase,"$100,001 - $250,000",--,Warner,Mark R,01/16/2024
+12/06/2023,Self,--,Massachusetts ST Go BDS Rate/Coupon: 5.00% Matures: 09/01/2038,Municipal Security,Purchase,"$100,001 - $250,000",--,Warner,Mark R,01/16/2024
+12/05/2023,Self,--,Prince Georges CNTY MD Rate/Coupon: 5.00% Matures: 08/01/2042,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,01/16/2024
+12/05/2023,Self,--,Connecticut ST Go BDS Rate/Coupon: 5.00% Matures: 04/15/2038,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,01/16/2024
+12/04/2023,Self,--,Fairfax CNTY VA SWR Rev Rate/Coupon: 5.00% Matures: 07/15/2046,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,01/16/2024
+12/04/2023,Self,--,Norfolk VA Go Cap Impt Rate/Coupon: 5.00% Matures: 09/01/2042,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,01/16/2024
+12/27/2023,Spouse,VZ,Verizon Communications Inc,Stock,Sale (Full),"$1,001 - $15,000",--,"King, Jr.",Angus S,01/16/2024
+12/27/2023,Spouse,EA,Electronic Arts Inc,Stock,Purchase,"$1,001 - $15,000",--,"King, Jr.",Angus S,01/16/2024
+12/19/2023,Spouse,JPM,JP Morgan Chase & Company,Stock,Sale (Partial),"$1,001 - $15,000",--,Capito,Shelley M,01/12/2024
+12/19/2023,Spouse,MSFT,Microsoft Corp,Stock,Sale (Partial),"$1,001 - $15,000",--,Capito,Shelley M,01/12/2024
+12/19/2023,Spouse,AAPL,Apple Inc,Stock,Sale (Partial),"$1,001 - $15,000",--,Capito,Shelley M,01/12/2024
+12/19/2023,Spouse,ADI,Analog Devices,Stock,Sale (Partial),"$1,001 - $15,000",--,Capito,Shelley M,01/12/2024
+12/19/2023,Spouse,ACN,Accenture Plc,Stock,Sale (Partial),"$1,001 - $15,000",--,Capito,Shelley M,01/12/2024
+12/01/2023,Spouse,SPGI,S&P Global Inc,Stock,Purchase,"$1,001 - $15,000",--,Capito,Shelley M,01/12/2024
+12/01/2023,Spouse,CMCSA,Comcast Corp A,Stock,Purchase,"$1,001 - $15,000",--,Capito,Shelley M,01/12/2024
+12/01/2023,Spouse,CSCO,Cisco Systems Inc,Stock,Purchase,"$1,001 - $15,000",--,Capito,Shelley M,01/12/2024
+12/01/2023,Spouse,CVX,Chevron Corp,Stock,Purchase,"$1,001 - $15,000",--,Capito,Shelley M,01/12/2024
+12/29/2023,Self,TFC,Truist Financial Corp,Stock,Sale (Partial),"$15,001 - $50,000",--,Capito,Shelley M,01/12/2024
+12/18/2023,Spouse,PFE,Pfizer Inc,Stock,Sale (Partial),"$1,001 - $15,000",--,Capito,Shelley M,01/12/2024
+12/18/2023,Spouse,MDLZ,Mondelez Intl Inc,Stock,Sale (Partial),"$1,001 - $15,000",--,Capito,Shelley M,01/12/2024
+12/18/2023,Spouse,MSFT,Microsoft Corp,Stock,Sale (Partial),"$1,001 - $15,000",--,Capito,Shelley M,01/12/2024
+12/18/2023,Spouse,KO,Coca-Cola Company,Stock,Sale (Partial),"$1,001 - $15,000",--,Capito,Shelley M,01/12/2024
+12/26/2023,Joint,PARA,Paramount Global Cl B,Stock,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,01/12/2024
+12/26/2023,Joint,VZ,Verizon Communications Inc,Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,01/12/2024
+12/26/2023,Joint,RF,Regions Financial Corp,Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,01/12/2024
+12/26/2023,Joint,KEY,Keycorp,Stock,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,01/12/2024
+12/19/2023,Joint,UAA,Under Armour,Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,01/12/2024
+12/18/2023,Joint,CVX,Chevron Corp Option Type: Call Strike price: $160.00 Expires: 06/21/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,01/12/2024
+12/18/2023,Joint,GOLD,Barrick Gold Corp Option Type: Put Strike price: $17.00 Expires: 01/17/2025,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,01/12/2024
+12/18/2023,Joint,GOLD,Barrick Gold Corp Option Type: Call Strike price: $20.00 Expires: 01/17/2025,Stock Option,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,01/12/2024
+12/18/2023,Joint,CVX,Chevron Corp Option Type: Put Strike price: $145.00 Expires: 09/20/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,01/12/2024
+12/18/2023,Joint,GOLD,Barrick Gold Corp,Stock,Purchase,"$50,001 - $100,000",--,Tuberville,Thomas H,01/12/2024
+12/14/2023,Joint,CVX,Chevron Corp,Stock,Purchase,"$50,001 - $100,000",--,Tuberville,Thomas H,01/12/2024
+12/13/2023,Joint,CVX,Chevron Corp,Stock,Purchase,"$100,001 - $250,000",--,Tuberville,Thomas H,01/12/2024
+12/12/2023,Joint,DVA,Davita Healthcare Partners Inc Option Type: Put Strike price: $100.00 Expires: 07/19/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,01/12/2024
+12/12/2023,Joint,GOLD,Barrick Gold Corp,Stock,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,01/12/2024
+12/11/2023,Joint,GOLD,Barrick Gold Corp,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,01/12/2024
+12/13/2023,Spouse,CMG,Chipotle Mexican Grill,Stock,Sale (Partial),"$100,001 - $250,000",--,Hickenlooper,John W,01/11/2024
+12/27/2023,Self,DDOG,"Datadog, Inc. - Class A Common Stock",Stock,Sale (Full),"$1,001 - $15,000",Asset held by Roundstone Ventures LLC.,"Hagerty, IV",William F,01/10/2024
+12/20/2023,Self,LRCX,Lam Research Corp,Stock,Sale (Partial),"$1,001 - $15,000",--,Boozman,John,01/08/2024
+12/12/2023,Self,GBIL,Goldman Sachs Access Treasury 0-1 Year ETF,Stock,Sale (Partial),"$1,001 - $15,000",--,Boozman,John,01/08/2024
+12/20/2023,Self,PFE,Pfizer Inc,Stock,Purchase,"$1,001 - $15,000",--,Boozman,John,01/08/2024
+12/12/2023,Self,PPLT,abrdn Physical Platinum Shares ETF,Stock,Purchase,"$1,001 - $15,000",--,Boozman,John,01/08/2024
+12/12/2023,Self,PALL,abrdn Physical Palladium Shares ETF,Stock,Purchase,"$1,001 - $15,000",--,Boozman,John,01/08/2024
+12/20/2023,Self,LRCX,Lam Research Corp,Stock,Sale (Partial),"$1,001 - $15,000",--,Boozman,John,01/08/2024
+12/12/2023,Self,GBIL,Goldman Sachs Access Treasury 0-1 Year ETF,Stock,Sale (Partial),"$1,001 - $15,000",--,Boozman,John,01/08/2024
+12/20/2023,Self,PFE,Pfizer Inc,Stock,Purchase,"$1,001 - $15,000",--,Boozman,John,01/08/2024
+12/12/2023,Self,PALL,abrdn Physical Palladium Shares ETF,Stock,Purchase,"$1,001 - $15,000",--,Boozman,John,01/08/2024
+12/12/2023,Self,PALL,abrdn Physical Palladium Shares ETF,Stock,Purchase,"$1,001 - $15,000",--,Boozman,John,01/08/2024
+12/21/2023,Spouse,--TAC,TRSWF - TransAlta Renewables Inc (Exchanged) Transalta Corp (Received),Stock,Exchange,"$1,001 - $15,000",--,Carper,Thomas R,01/03/2024
+12/26/2023,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,01/03/2024
+12/26/2023,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,01/03/2024
+12/19/2023,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$15,001 - $50,000",--,Carper,Thomas R,01/03/2024
+12/19/2023,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$15,001 - $50,000",--,Carper,Thomas R,01/03/2024
+12/19/2023,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$50,001 - $100,000",--,Carper,Thomas R,01/03/2024
+12/19/2023,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$100,001 - $250,000",--,Carper,Thomas R,01/03/2024
+12/19/2023,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$50,001 - $100,000",--,Carper,Thomas R,01/03/2024
+12/18/2023,Spouse,XCEM,Columbia EM Core Ex-China ETF,Other Securities,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,01/03/2024
+12/18/2023,Spouse,SMDV,ProShares Russell 2000 Dividend Growers ETF,Other Securities,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,01/03/2024
+12/18/2023,Spouse,FDRR,Fidelity Dividend ETF For Rising Rates,Other Securities,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,01/03/2024
+12/18/2023,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,01/03/2024
+12/18/2023,Spouse,SBPYX,Clearbridge Small Cap Growth Fd Cl I,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,01/03/2024
+12/18/2023,Spouse,XCEM,Columbia EM Core Ex-China ETF,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,01/03/2024
+12/14/2023,Spouse,HDGE,Ranger Equity Bear Bear ETF,Other Securities,Sale (Full),"$15,001 - $50,000",--,Carper,Thomas R,01/03/2024
+12/14/2023,Spouse,HDGE,Ranger Equity Bear Bear ETF,Other Securities,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,01/03/2024
+12/14/2023,Spouse,HDGE,Ranger Equity Bear Bear ETF,Other Securities,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,01/03/2024
+12/11/2023,Spouse,SBUX,Starbucks Corp,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,01/03/2024
+12/11/2023,Spouse,VLO,Valero Energy Corp,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,01/03/2024
+12/11/2023,Spouse,DGX,Quest Diagnostics Inc,Stock,Sale (Partial),"$1,001 - $15,000",--,Carper,Thomas R,01/03/2024
+12/11/2023,Spouse,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,Stock,Sale (Partial),"$1,001 - $15,000",--,Carper,Thomas R,01/03/2024
+12/11/2023,Spouse,AGX,Argan Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,01/03/2024
+12/11/2023,Spouse,MOS,Mosaic Company,Stock,Sale (Partial),"$1,001 - $15,000",--,Carper,Thomas R,01/03/2024
+12/11/2023,Spouse,GLPI,"Gaming and Leisure Properties, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,01/03/2024
+12/11/2023,Spouse,URA,Global X Uranium ETF,Other Securities,Sale (Partial),"$1,001 - $15,000",--,Carper,Thomas R,01/03/2024
+12/11/2023,Spouse,FNF,Fidelity National Financial,Stock,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,01/03/2024
+12/11/2023,Spouse,FLNG,Flex Lng Ltd,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,01/03/2024
+12/11/2023,Spouse,IRM,Iron Mountain Inc,Stock,Sale (Partial),"$1,001 - $15,000",--,Carper,Thomas R,01/03/2024
+12/11/2023,Spouse,FMC,FMC Corp,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,01/03/2024
+12/11/2023,Spouse,KMB,Kimberly-Clark Corp,Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,01/03/2024
+11/10/2023,Spouse,--,MAINE STATE HSG AUTH REV Rate/Coupon: 1.95% Matures: 11/15/2023,Municipal Security,Sale (Full),"$1,001 - $15,000",--,"King, Jr.",Angus S,01/02/2024
+11/01/2023,Spouse,--,MUNI BOND ORONO ME Rate/Coupon: 3.00% Matures: 11/1/2024,Municipal Security,Sale (Full),"$15,001 - $50,000",--,"King, Jr.",Angus S,01/02/2024
+12/06/2023,Joint,--,Cleveland County OK Educational FACS REV Rate/Coupon: 5.0% Matures: 06/01/2032,Municipal Security,Purchase,"$100,001 - $250,000",--,Mullin,Markwayne,12/28/2023
+12/05/2023,Joint,VLTO,Veralto Corp Common Stock,Stock,Sale (Partial),"$1,001 - $15,000",--,Mullin,Markwayne,12/28/2023
+11/30/2023,Self,--,REGIONAL TRANSN DIST COLO CTFS PARTN COPS 2015 A DUE 06/01/2031 DATED 08/20/2015 Rate/Coupon: 3.50% Matures: 06/01/2031,Municipal Security,Purchase,"$15,001 - $50,000",--,Peters,Gary C,12/21/2023
+11/30/2023,Self,--,Anne Arundel CNTY MD Rate/Coupon: 5.00% Matures: 10/01/2041,Municipal Security,Purchase,"$100,001 - $250,000",--,Warner,Mark R,12/19/2023
+11/30/2023,Self,--,Anne Arundel CNTY MD Rate/Coupon: 5.00% Matures: 10/01/2042,Municipal Security,Purchase,"$250,001 - $500,000",--,Warner,Mark R,12/19/2023
+11/29/2023,Self,--,Washington ST Go Var Rate/Coupon: 5.00% Matures: 02/01/2045,Municipal Security,Purchase,"$250,001 - $500,000",--,Warner,Mark R,12/19/2023
+11/29/2023,Self,--,Williamsburg VA Econ Dev Auth Student HSG Rev William & Mary Rate/Coupon: 4.375% Matures: 07/01/2063,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,12/19/2023
+11/28/2023,Self,--,Spotsylvania CNTY VA WTR Rate/Coupon: 5.00% Matures: 12/01/2045,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,12/19/2023
+11/28/2023,Self,--,Petersburg VA Unltd Tax Rate/Coupon: 4.25% Matures: 09/01/2053,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,12/19/2023
+11/27/2023,Self,--,Fairfax CNTY VA SWR Rev Rate/Coupon: 5.00% Matures: 07/15/2044,Municipal Security,Purchase,"$250,001 - $500,000",--,Warner,Mark R,12/19/2023
+11/27/2023,Self,--,Roanoke VA Go Pub Impt Rate/Coupon: 4.00% Matures: 10/01/2043,Municipal Security,Purchase,"$250,001 - $500,000",--,Warner,Mark R,12/19/2023
+11/22/2023,Self,--,Virginia ST Pub SCH Auth Rate/Coupon: 5.00% Matures: 08/01/2040,Municipal Security,Purchase,"$100,001 - $250,000",--,Warner,Mark R,12/19/2023
+11/22/2023,Self,--,University VA Univ Revs Rate/Coupon: 5.00% Matures: 04/01/2042,Municipal Security,Purchase,"$100,001 - $250,000",--,Warner,Mark R,12/19/2023
+11/21/2023,Self,--,Fairfax CNTY VA Pub Impt Rate/Coupon: 5.00% Matures: 10/01/2039,Municipal Security,Purchase,"$100,001 - $250,000",--,Warner,Mark R,12/19/2023
+11/21/2023,Self,--,Arlington CNTY VA Go Pub Rate/Coupon: 5.00% Matures: 06/15/2038,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,12/19/2023
+11/17/2023,Self,--,Washington ST MTR Veh Rate/Coupon: 5.00% Matures: 06/01/2039,Municipal Security,Purchase,"$100,001 - $250,000",--,Warner,Mark R,12/19/2023
+11/16/2023,Self,--,Virginia Port Auth Rate/Coupon: 5.00% Matures: 07/01/2043,Municipal Security,Purchase,"$250,001 - $500,000",--,Warner,Mark R,12/19/2023
+11/16/2023,Self,--,Spotsylvania CNTY VA WTR & SWR SYS Rev Rate/Coupon: 5.00% Matures: 12/01/2047,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,12/19/2023
+11/15/2023,Self,--,Virginia Comwlth Transn Rate/Coupon: 4.00% Matures: 05/15/2042,Municipal Security,Purchase,"$100,001 - $250,000",--,Warner,Mark R,12/19/2023
+11/14/2023,Self,--,Palm BCH CNTY FL Pub Rate/Coupon: 5.00% Matures: 05/01/2038,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,12/19/2023
+11/14/2023,Self,--,Virginia ST Re Be 5.00 % Rate/Coupon: 5.00% Matures: 11/01/2034,Municipal Security,Purchase,"$50,001 - $100,000",--,Warner,Mark R,12/19/2023
+11/14/2023,Self,--,Richmond VA Pub Util Rev Rate/Coupon: 4.00% Matures: 01/15/2040,Municipal Security,Purchase,"$100,001 - $250,000",--,Warner,Mark R,12/19/2023
+11/14/2023,Self,--,Dripping Springs TX Indep Schdist Ref Unltd Tax Rate/Coupon: 5.00% Matures: 02/15/2053,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,12/19/2023
+11/13/2023,Self,--,Virginia ST Res Auth Rate/Coupon: 4.00% Matures: 11/01/2043,Municipal Security,Purchase,"$250,001 - $500,000",--,Warner,Mark R,12/19/2023
+11/10/2023,Self,--,Sarasota CNTY FL Cap Rate/Coupon: 5.00% Matures: 10/01/2042,Municipal Security,Purchase,"$250,001 - $500,000",--,Warner,Mark R,12/19/2023
+11/09/2023,Self,--,Austin TX Pub Impt RFDG Rate/Coupon: 5.00% Matures: 09/01/2040,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,12/19/2023
+11/08/2023,Self,--,Virginia Comwlth Transn Rate/Coupon: 4.00% Matures: 05/15/2042,Municipal Security,Purchase,"$100,001 - $250,000",--,Warner,Mark R,12/19/2023
+11/08/2023,Self,--,Fairfax CNTY VA WTR Auth Rate/Coupon: 5.00% Matures: 04/01/2041,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,12/19/2023
+11/07/2023,Self,--,Washington ST Var Purp Rate/Coupon: 5.00% Matures: 02/01/2039,Municipal Security,Purchase,"$250,001 - $500,000",--,Warner,Mark R,12/19/2023
+11/07/2023,Self,--,District Columbia Go BDS Rate/Coupon: 5.00% Matures: 01/01/2043,Municipal Security,Purchase,"$250,001 - $500,000",--,Warner,Mark R,12/19/2023
+11/07/2023,Self,--,Fairfax CNTY VA SWR Rev Rate/Coupon: 4.00% Matures: 07/15/2040,Municipal Security,Purchase,"$250,001 - $500,000",--,Warner,Mark R,12/19/2023
+11/07/2023,Self,--,Arlington CNTY VA G/O Rate/Coupon: 4.00% Matures: 06/15/2040,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,12/19/2023
+11/07/2023,Self,--,Hampton Roads VA Transprtn Accountability Commn SR Lien-Ser A Rate/Coupon: 5.00% Matures: 07/01/2050,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Warner,Mark R,12/19/2023
+11/27/2023,Spouse,WFC,Wells Fargo & Company,Stock,Sale (Partial),"$1,001 - $15,000",--,Capito,Shelley M,12/19/2023
+11/27/2023,Spouse,SHEL,Royal Dutch Shell Plc ADR,Stock,Sale (Full),"$1,001 - $15,000",--,Capito,Shelley M,12/19/2023
+12/05/2023,Spouse,WFC,Wells Fargo & Company Common Stock,Stock,Purchase,"$1,001 - $15,000",Dividend Reinvestment,"McConnell, Jr.",A. Mitchell,12/18/2023
+12/14/2023,Spouse,--,"181-Fairhope Ave 2023, LLC Company: 181-Fairhope Ave 2023, LLC
+                                                    
+                                                         (Daphne, AL) Description: Investment and development of real property in Alabama",Other Securities,Purchase,"$15,001 - $50,000",--,Britt,Katie,12/15/2023
+11/22/2023,Joint,MDLZ,"Mondelez International, Inc. - Class A Common Stoc Option Type: Put Strike price: $70.00 Expires: 01/19/2024",Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,12/15/2023
+11/21/2023,Joint,CLF,Cleveland-Cliffs Inc Option Type: Call Strike price: $20.00 Expires: 07/19/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,12/15/2023
+11/21/2023,Joint,KEY,KeyCorp Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,12/15/2023
+11/21/2023,Joint,FGBI,First Gurty Banc,Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,12/15/2023
+11/20/2023,Joint,ABBV,Abbvie Inc Option Type: Put Strike price: $130.00 Expires: 09/20/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,12/15/2023
+11/16/2023,Joint,BMY,Bristol-Myers Squibb Company Option Type: Put Strike price: $50.00 Expires: 06/21/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,12/15/2023
+11/15/2023,Joint,AMAT,Applied Materials Option Type: Put Strike price: $135.00 Expires: 09/20/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,12/15/2023
+11/15/2023,Joint,MCHP,Microchip Technology Option Type: Put Strike price: $80.00 Expires: 10/18/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,12/15/2023
+11/14/2023,Joint,OXY,Occidental Petroleum Corp Option Type: Call Strike price: $65.00 Expires: 06/21/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,12/15/2023
+11/14/2023,Joint,OXY,Occidental Petroleum Corp Option Type: Put Strike price: $60.00 Expires: 05/17/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,12/15/2023
+11/09/2023,Joint,CLF,Cleveland-Cliffs Inc Option Type: Call Strike price: $20.00 Expires: 01/17/2025,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,12/15/2023
+11/09/2023,Joint,MSFT,Microsoft Corporation - Common Stock Option Type: Put Strike price: $305.00 Expires: 09/20/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,12/15/2023
+11/07/2023,Joint,X,United States Steel Corp Option Type: Put Strike price: $20.00 Expires: 06/21/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,12/15/2023
+11/07/2023,Self,SHY,iShares 1-3 Year Treasury Bond ETF,Stock,Sale (Partial),"$1,001 - $15,000",--,Boozman,John,12/12/2023
+11/07/2023,Self,CMBS,iShares CMBS Bond ETF,Stock,Sale (Partial),"$1,001 - $15,000",--,Boozman,John,12/12/2023
+11/29/2023,Self,TLT,20+ Year Treas Bond Ishares ETF,Stock,Sale (Partial),"$1,001 - $15,000",--,Boozman,John,12/12/2023
+11/07/2023,Self,AGZ,iShares  Agency Bond ETF,Stock,Sale (Partial),"$1,001 - $15,000",--,Boozman,John,12/12/2023
+11/07/2023,Self,GBIL,Goldman Sachs Access Treasury 0-1 Year ETF,Stock,Sale (Partial),"$1,001 - $15,000",--,Boozman,John,12/12/2023
+11/07/2023,Self,GIGB,Goldman Sachs Access Investment Grade Corporate Bo,Stock,Sale (Partial),"$1,001 - $15,000",--,Boozman,John,12/12/2023
+11/07/2023,Self,JMBS,Janus Henderson Mortgage-Backed Securities ETF,Stock,Purchase,"$1,001 - $15,000",--,Boozman,John,12/12/2023
+11/29/2023,Self,SHY,iShares 1-3 Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--,Boozman,John,12/12/2023
+11/08/2023,Self,TLH,iShares 10-20 Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--,Boozman,John,12/12/2023
+11/07/2023,Self,TLT,20+ Year Treas Bond Ishares ETF,Stock,Purchase,"$1,001 - $15,000",--,Boozman,John,12/12/2023
+11/07/2023,Self,MBB,iShares MBS ETF,Stock,Purchase,"$1,001 - $15,000",--,Boozman,John,12/12/2023
+11/30/2023,Spouse,MSFT,Microsoft Corp,Stock,Sale (Partial),"$1,001 - $15,000",--,Capito,Shelley M,12/11/2023
+11/27/2023,Self,--,Washington St. General Obligation Bond Rate/Coupon: 5.0% Matures: 08/01/2044,Municipal Security,Purchase,"$100,001 - $250,000",--,Scott,Rick,12/10/2023
+11/27/2023,Spouse,--,Washington St. General Obligation Bond Rate/Coupon: 5.0% Matures: 08/01/2044,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Scott,Rick,12/10/2023
+11/27/2023,Spouse,--,Washington St. General Obligation Bond Rate/Coupon: 5.0% Matures: 08/01/2044,Municipal Security,Purchase,"$250,001 - $500,000",--,Scott,Rick,12/10/2023
+11/27/2023,Spouse,--,Washington St. General Obligation Bond Rate/Coupon: 5.0% Matures: 08/01/2044,Municipal Security,Purchase,"$250,001 - $500,000",--,Scott,Rick,12/10/2023
+11/21/2023,Self,--,District of Columbia Income Tax Revenue Bond Rate/Coupon: 5.0% Matures: 03/01/2044,Municipal Security,Purchase,"$100,001 - $250,000",--,Scott,Rick,12/10/2023
+11/21/2023,Spouse,--,District of Columbia Income Tax Revenue Bond Rate/Coupon: 5.0% Matures: 03/01/2044,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Scott,Rick,12/10/2023
+11/21/2023,Spouse,--,District of Columbia Income Tax Revenue Bond Rate/Coupon: 5.0% Matures: 03/01/2044,Municipal Security,Purchase,"$500,001 - $1,000,000",--,Scott,Rick,12/10/2023
+11/21/2023,Spouse,--,District of Columbia Income Tax Revenue Bond Rate/Coupon: 5.0% Matures: 03/01/2044,Municipal Security,Purchase,"$250,001 - $500,000",--,Scott,Rick,12/10/2023
+11/09/2023,Self,--,Arizona Board of Regents University of Arizona Sys Revenue Bond Rate/Coupon: 5.0% Matures: 06/01/2041,Municipal Security,Purchase,"$100,001 - $250,000","Notified to filer no earlier than November 10, 2023",Scott,Rick,12/10/2023
+11/09/2023,Spouse,--,Arizona Board of Regents University of Arizona Sys Revenue Bond Rate/Coupon: 5.0% Matures: 06/01/2041,Municipal Security,Purchase,"$500,001 - $1,000,000","Notified to filer no earlier than November 10, 2023",Scott,Rick,12/10/2023
+11/09/2023,Spouse,--,Arizona Board of Regents University of Arizona Sys Revenue Bond Rate/Coupon: 5.0% Matures: 06/01/2041,Municipal Security,Purchase,"$250,001 - $500,000","Notified to filer no earlier than November 10, 2023",Scott,Rick,12/10/2023
+11/09/2023,Spouse,--,Arizona Board of Regents University of Arizona Sys Revenue Bond Rate/Coupon: 5.0% Matures: 06/01/2041,Municipal Security,Purchase,"$250,001 - $500,000","Notified to filer no earlier than November 10, 2023",Scott,Rick,12/10/2023
+11/09/2023,Self,--,Hampton Roads Transn Accountability Commn Revenue Bond Rate/Coupon: 5.0% Matures: 07/01/2045,Municipal Security,Purchase,"$100,001 - $250,000","Notified to filer no earlier than November 10, 2023",Scott,Rick,12/10/2023
+11/09/2023,Spouse,--,Hampton Roads Transn Accountability Commn Revenue Bond Rate/Coupon: 5.0% Matures: 07/01/2045,Municipal Security,Purchase,"$500,001 - $1,000,000","Notified to filer no earlier than November 10, 2023",Scott,Rick,12/10/2023
+11/09/2023,Spouse,--,Hampton Roads Transn Accountability Commn Revenue Bond Rate/Coupon: 5.0% Matures: 07/01/2045,Municipal Security,Purchase,"$250,001 - $500,000","Notified to filer no earlier than November 10, 2023",Scott,Rick,12/10/2023
+11/09/2023,Spouse,--,Hampton Roads Transn Accountability Commn Revenue Bond Rate/Coupon: 5.0% Matures: 07/01/2045,Municipal Security,Purchase,"$250,001 - $500,000","Notified to filer no earlier than November 10, 2023",Scott,Rick,12/10/2023
+11/08/2023,Self,CELH,Celsius Holdings Inc,Stock,Purchase,"$1,001 - $15,000",--,Whitehouse,Sheldon,12/07/2023
+11/29/2023,Spouse,VLTO,Veralto Corporation,Stock,Sale (Full),"$1,001 - $15,000",Stock was received as a result of a spin-off with Danaher on 10/4/23.,Whitehouse,Sheldon,12/07/2023
+11/29/2023,Self,VLTO,Veralto Corporation,Stock,Sale (Full),"$1,001 - $15,000","Stock was received as result of a spin-off with Danaher on 10/4/23.
+Underlying asset of The Sheldon Whitehouse Trust-2004.",Whitehouse,Sheldon,12/07/2023
+11/16/2023,Self,KMB,Kimberly-Clark Corp,Stock,Sale (Full),"$50,001 - $100,000",--,Whitehouse,Sheldon,12/07/2023
+11/29/2023,Self,VLTO,Veralto Corporation,Stock,Sale (Full),"$1,001 - $15,000","Stock was received as result of spin-off with Danaher on 10/4/23.
+Underlying asset of Sheldon Whitehouse Family Trust.",Whitehouse,Sheldon,12/07/2023
+11/07/2023,Self,--,TOMBALL TEX COMBINATION TAX REV CTFS OBLIG 2022 Rate/Coupon: 5.0 Matures: 02/15/2029,Municipal Security,Purchase,"$15,001 - $50,000",--,"Manchin, III",Joseph,12/06/2023
+11/02/2023,Self,--,WILL CNTY ILL GO BDS 2016 DUE 11/15/2029 DATED 08/24/2016 4.00% INTEREST Rate/Coupon: 4.00% Matures: 11/15/2029,Municipal Security,Purchase,"$15,001 - $50,000",--,Peters,Gary C,12/01/2023
+10/31/2023,Joint,--,CLEAR CREEK TEX INDPT SCH DIST UNLTD TAX REF BDS 2023 Rate/Coupon: 5.0% Matures: 02/15/2038,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,11/28/2023
+10/27/2023,Joint,--,NEW YORK N Y CITY MUN WTR FIN AUTH WTR & SWR SYS REV REV BDS 2015 FF Rate/Coupon: 5.0% Matures: 06/15/2039,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,11/28/2023
+10/26/2023,Joint,--,Oklahoma Transn Auth OK F/K/A Rate/Coupon: 5.0% Matures: 01/01/2025,Municipal Security,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,11/28/2023
+11/16/2023,Joint,--,Oklahoma Dev Fin Auth Lease RE Rate/Coupon: 5.0% Matures: 12/01/2029,Municipal Security,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,11/28/2023
+10/23/2023,Spouse,--,MAINE ST TPK AUTH RE REV BOND Rate/Coupon: 4.0% Matures: 07/01/2031,Municipal Security,Purchase,"$15,001 - $50,000",--,"King, Jr.",Angus S,11/28/2023
+11/16/2023,Spouse,AORT,"Artivion, Inc. Common Stock",Stock,Purchase,"$50,001 - $100,000",Underlying asset of Truchas Capital 401k Plan,Smith,Tina,11/20/2023
+11/08/2023,Spouse,TCMD,"Tactile Systems Technology, Inc. - Common Stock",Stock,Purchase,"$100,001 - $250,000",Underlying asset of Truchas Capital 401k Plan,Smith,Tina,11/20/2023
+11/10/2023,Spouse,AORT,"Artivion, Inc. Common Stock",Stock,Purchase,"$50,001 - $100,000",Underlying asset of Truchas Capital 401k Plan,Smith,Tina,11/20/2023
+10/31/2023,Joint,KMB,Kimberly-Clark Corporation Common Stock Option Type: Put Strike price: $115.00 Expires: 06/21/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/31/2023,Joint,CLX,Clorox Company Option Type: Put Strike price: $135.00 Expires: 06/21/2024,Stock Option,Sale (Full),"$50,001 - $100,000",--,Tuberville,Thomas H,11/16/2023
+10/31/2023,Joint,CLF,Cleveland-Cliffs Inc Option Type: Call Strike price: $17.00 Expires: 06/21/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/31/2023,Joint,CLF,Cleveland-Cliffs Inc Option Type: Call Strike price: $17.00 Expires: 06/21/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/31/2023,Joint,KMB,Kimberly-Clark Corporation Common Stock,Stock,Sale (Full),"$100,001 - $250,000",--,Tuberville,Thomas H,11/16/2023
+10/31/2023,Joint,HPQ,HP Inc. Common Stock,Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,11/16/2023
+10/31/2023,Joint,CLX,Clorox Company (The) Common Stock,Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/31/2023,Joint,CLX,Clorox Company (The) Common Stock,Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,11/16/2023
+10/31/2023,Joint,CLX,Clorox Company (The) Common Stock,Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,11/16/2023
+10/31/2023,Joint,CLX,Clorox Company (The) Common Stock,Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,11/16/2023
+10/31/2023,Joint,CLX,Clorox Company (The) Common Stock,Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,11/16/2023
+10/31/2023,Joint,CLX,Clorox Company (The) Common Stock,Stock,Sale (Partial),"$100,001 - $250,000",--,Tuberville,Thomas H,11/16/2023
+10/30/2023,Joint,HPQ,HP Inc. Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,11/16/2023
+10/25/2023,Joint,CLX,Clorox Company (The) Common Stock,Stock,Purchase,"$100,001 - $250,000",--,Tuberville,Thomas H,11/16/2023
+10/23/2023,Joint,HPQ,HP Inc. Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,11/16/2023
+10/23/2023,Joint,HPQ,HP Inc. Common Stock,Stock,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,11/16/2023
+10/23/2023,Joint,CLF,Cleveland-Cliffs Inc. Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,11/16/2023
+10/18/2023,Joint,CLF,Cleveland-Cliffs Inc. Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,AMAT,"Applied Materials, Inc. - Common Stock Option Type: Put Strike price: $140.00 Expires: 04/19/2024",Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,AMAT,"Applied Materials, Inc. - Common Stock Option Type: Put Strike price: $140.00 Expires: 04/19/2024",Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,TSLA,"Tesla, Inc.  - Common Stock Option Type: Put Strike price: $190.00 Expires: 12/15/2023",Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,TSLA,"Tesla, Inc.  - Common Stock Option Type: Put Strike price: $190.00 Expires: 12/15/2023",Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,TSLA,"Tesla, Inc.  - Common Stock Option Type: Put Strike price: $190.00 Expires: 12/15/2023",Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,KO,Coca-Cola Company (The) Common Stock Option Type: Put Strike price: $60.00 Expires: 12/15/2023,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,KO,Coca-Cola Company (The) Common Stock Option Type: Put Strike price: $60.00 Expires: 12/15/2023,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,TXN,Texas Instruments Incorporated - Common Stock Option Type: Put Strike price: $150.00 Expires: 06/21/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,TXN,Texas Instruments Incorporated - Common Stock Option Type: Put Strike price: $150.00 Expires: 06/21/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,TXN,Texas Instruments Incorporated - Common Stock Option Type: Put Strike price: $150.00 Expires: 06/21/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,TXN,Texas Instruments Incorporated - Common Stock Option Type: Put Strike price: $180.00 Expires: 06/21/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,TXN,Texas Instruments Incorporated - Common Stock Option Type: Put Strike price: $180.00 Expires: 06/21/2024,Stock Option,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,WU,Western Union Company (The) Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,UNP,Union Pacific Corporation Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,MMM,3M Company Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,TSLA,"Tesla, Inc.  - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,SCCO,Southern Copper Corporation Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,SWKS,"Skyworks Solutions, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,ROK,"Rockwell Automation, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,RMD,ResMed Inc. Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,PHM,"PulteGroup, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,NXPI,NXP Semiconductors N.V. - Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,MCO,Moody's Corporation Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,MNST,Monster Beverage Corporation - Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,MPWR,"Monolithic Power Systems, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,MCHP,Microchip Technology Incorporated - Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,MMC,"Marsh & McLennan Companies, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,ITW,Illinois Tool Works Inc. Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,GGG,Graco Inc. Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,FTNT,"Fortinet, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,META,"Meta Platforms, Inc. - Class A Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,KO,Coca-Cola Company (The) Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,BMY,Bristol-Myers Squibb Company Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,AMAT,"Applied Materials, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,AON,AON Plc,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,WMS,"Advanced Drainage Systems, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/17/2023,Joint,ABBV,AbbVie Inc. Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/16/2023,Joint,SKY,Skyline Champion Corporation Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/16/2023,Joint,RRC,Range Resources Corporation Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/16/2023,Joint,ODFL,"Old Dominion Freight Line, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/16/2023,Joint,NSC,Norfolk Southern Corporation Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/16/2023,Joint,MRK,"Merck & Company, Inc. Common Stock (new)",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/16/2023,Joint,JNJ,Johnson & Johnson Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/16/2023,Joint,JKHY,"Jack Henry & Associates, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/16/2023,Joint,GSK,Gsk Plc ADR,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/16/2023,Joint,GIS,"General Mills, Inc. Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/16/2023,Joint,DIOD,Diodes Incorporated - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/16/2023,Joint,CBSH,"Commerce Bancshares, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/16/2023,Joint,CRUS,"Cirrus Logic, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/16/2023,Joint,CSX,CSX Corporation - Common Stock,Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/16/2023,Joint,ADP,"Automatic Data Processing, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/16/2023,Joint,A,Agilent Technologies,Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/11/2023,Joint,TXN,Texas Instruments Incorporated - Common Stock Option Type: Call Strike price: $180.00 Expires: 04/19/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/11/2023,Joint,X,United States Steel Corp Option Type: Call Strike price: $25.00 Expires: 06/21/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/11/2023,Joint,LPX,Louisiana-Pacific Corporation Common Stock Option Type: Call Strike price: $70.00 Expires: 05/17/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/11/2023,Joint,TXN,Texas Instruments Incorporated - Common Stock Option Type: Put Strike price: $150.00 Expires: 06/21/2024,Stock Option,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,11/16/2023
+10/11/2023,Joint,X,United States Steel Corporation Common Stock,Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/11/2023,Joint,X,United States Steel Corporation Common Stock,Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,11/16/2023
+10/11/2023,Joint,LPX,Louisiana-Pacific Corporation Common Stock Option Type: Put Strike price: $52.50 Expires: 06/21/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/11/2023,Joint,TXN,Texas Instruments Incorporated - Common Stock,Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/11/2023,Joint,TXN,Texas Instruments Incorporated - Common Stock,Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,11/16/2023
+10/11/2023,Joint,TXN,Texas Instruments Incorporated - Common Stock,Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,11/16/2023
+10/11/2023,Joint,TXN,Texas Instruments Incorporated - Common Stock,Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,11/16/2023
+10/11/2023,Joint,TXN,Texas Instruments Incorporated - Common Stock,Stock,Sale (Partial),"$50,001 - $100,000",--,Tuberville,Thomas H,11/16/2023
+10/11/2023,Joint,TXN,Texas Instruments Incorporated - Common Stock,Stock,Sale (Partial),"$50,001 - $100,000",--,Tuberville,Thomas H,11/16/2023
+10/11/2023,Joint,NU,Nu Holdings Ltd Cl A,Stock,Sale (Full),"$100,001 - $250,000",--,Tuberville,Thomas H,11/16/2023
+10/11/2023,Joint,LPX,Louisiana-Pacific Corporation Common Stock,Stock,Sale (Full),"$100,001 - $250,000",--,Tuberville,Thomas H,11/16/2023
+10/11/2023,Joint,KR,Kroger Company,Stock,Sale (Full),"$50,001 - $100,000",--,Tuberville,Thomas H,11/16/2023
+10/03/2023,Joint,KR,Kroger Company,Stock,Purchase,"$50,001 - $100,000",--,Tuberville,Thomas H,11/16/2023
+10/05/2023,Self,AES,The AES Corporation Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Boozman,John,11/07/2023
+10/20/2023,Spouse,PSQ,ProShares Short QQQ,Other Securities,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,11/02/2023
+10/20/2023,Spouse,HDGE,Ranger Equity Bear Bear ETF,Other Securities,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,11/02/2023
+10/20/2023,Spouse,PSQ,ProShares Short QQQ,Other Securities,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,11/02/2023
+10/20/2023,Spouse,HDGE,Ranger Equity Bear Bear ETF,Other Securities,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,11/02/2023
+10/20/2023,Spouse,PSQ,ProShares Short QQQ,Other Securities,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,11/02/2023
+10/20/2023,Spouse,HDGE,Ranger Equity Bear Bear ETF,Other Securities,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,11/02/2023
+10/19/2023,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$15,001 - $50,000",--,Carper,Thomas R,11/02/2023
+10/19/2023,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$15,001 - $50,000",--,Carper,Thomas R,11/02/2023
+10/19/2023,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$15,001 - $50,000",--,Carper,Thomas R,11/02/2023
+10/19/2023,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$50,001 - $100,000",--,Carper,Thomas R,11/02/2023
+10/19/2023,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$50,001 - $100,000",--,Carper,Thomas R,11/02/2023
+10/18/2023,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,11/02/2023
+10/18/2023,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,11/02/2023
+10/18/2023,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$50,001 - $100,000",--,Carper,Thomas R,11/02/2023
+10/04/2023,Spouse,RVNC,"Revance Therapeutics, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,11/02/2023
+10/04/2023,Spouse,GPCR,Structure Therapeutics Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,11/02/2023
+10/18/2023,Joint,--,Tulsa County Oklahoma Indl Auth Edl Rate/Coupon: 5.0% Matures: 09/01/2027,Municipal Security,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,11/01/2023
+10/17/2023,Joint,--,University Oklahoma Revs Rate/Coupon: 5.0% Matures: 07/01/2028,Municipal Security,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,11/01/2023
+10/04/2023,Joint,--,Purcell Oklahoma Public Works Auth Rate/Coupon: 5.0% Matures: 03/01/2030,Municipal Security,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,11/01/2023
+10/13/2023,Joint,--,Oklahoma Dev Fin Auth Health Rate/Coupon: 0.41% Matures: 08/15/2031,Municipal Security,Purchase,"$250,001 - $500,000",--,Mullin,Markwayne,11/01/2023
+10/25/2023,Joint,--,Nevada St Ltd Tax Go Cap Impt BDS Rate/Coupon: 5.0% Matures: 05/01/38,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,--,NEW MEXICO FIN AUTH ST TRANSN REV REV REF BDS Rate/Coupon: 5.0% Matures: 06/15/2024,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,11/01/2023
+10/04/2023,Joint,--,COOK CNTY ILL CMNTY CONS SCH DIST NO 015 PALATINE GO BDS 2023A Rate/Coupon: 5.25% Matures: 12/15/2039,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,11/01/2023
+10/04/2023,Joint,--,Kaukauna Wis Antic Nts 2023 B Rate/Coupon: 5.0% Matures: 06/01/28,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,11/01/2023
+10/06/2023,Joint,--,FORT LAUDERDALE FLA WTR & SWR REV BDS PROSPECT LAKE WTR TREATMENT 2023 Rate/Coupon: 5.0% Matures: 09/01/38,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,11/01/2023
+10/12/2023,Joint,--,POCONO MTN PA SCH DIST GO NTS 2023 Rate/Coupon: 4.5% Matures: 10/01/2026,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,ABT,Abbott Laboratories Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,ADBE,Adobe Systems Inc,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,AMD,"Advanced Micro Devices, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,GOOGL,Alphabet Inc. - Class A Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,AMZN,"Amazon.com, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,AXP,American Express Company Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,ELV,"Elevance Health, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,AAPL,Apple Inc. - Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,AMAT,"Applied Materials, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,AZO,"AutoZone, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,BRK.B,Berkshire Hathaway Cl B,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,BLK,"BlackRock, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,BSX,Boston Scientific Corporation Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,CSX,CSX Corporation - Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,CAT,"Caterpillar, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,CVX,Chevron Corporation Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,CMG,Chipotle Mexican Grill,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,KO,Coca-Cola Company (The) Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,CMCSA,Comcast Corporation - Class A Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,COP,ConocoPhillips Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,STZ,Constellation Brands Inc,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,COST,Costco Wholesale Corporation - Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,DE,Deere & Company Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,EW,Edwards Lifesciences Corporation Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,EMR,Emerson Electric Company,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,META,"Meta Platforms, Inc. - Class A Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,FI,"Fiserv, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,GS,"Goldman Sachs Group, Inc. (The) Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,HLT,Hilton Worldwide Holdings Inc. Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,HD,"Home Depot, Inc. (The) Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,HON,Honeywell International Inc. - Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,ICE,Intercontinental Exchange Inc. Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,JPM,JP Morgan Chase & Co. Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,LRCX,Lam Research Corporation - Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,LLY,Eli Lilly and Company Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,MA,Mastercard Inc,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,MSFT,Microsoft Corporation - Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,NKE,Nike Inc,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,NVDA,NVIDIA Corporation - Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,PANW,"Palo Alto Networks, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,PEP,"PepsiCo, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,PG,Procter & Gamble Company,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,RTX,RTX Corporation Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,SPGI,S&P Global Inc. Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,CRM,"Salesforce, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,SHW,Sherwin-Williams Company (The) Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,SBUX,Starbucks Corporation - Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,--,"T-Mobile US, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,TXN,Texas Instruments Incorporated - Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,TMO,Thermo Fisher Scientific Inc,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,UNP,Union Pacific Corp,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,UNH,Unitedhealth Group Inc,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,V,Visa Inc,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Joint,ZTS,Zoetis Inc. Class A Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Mullin,Markwayne,11/01/2023
+10/03/2023,Self,WMT,Walmart Inc,Stock,Sale (Full),"$50,001 - $100,000",--,Vance,JD,10/23/2023
+09/21/2023,Spouse,YUM,"Yum! Brands, Inc.",Stock,Sale (Full),"$50,001 - $100,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,WAL,Western Alliance Bancorp,Stock,Sale (Full),"$50,001 - $100,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,VZ,Verizon Communications Inc. Common Stock,Stock,Sale (Full),"$50,001 - $100,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,UNP,Union Pacific Corporation Common Stock,Stock,Sale (Full),"$100,001 - $250,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,UNH,UnitedHealth Group Incorporated Common Stock (DE),Stock,Sale (Full),"$100,001 - $250,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,PNC,"PNC Financial Services Group, Inc. (The) Common St",Stock,Sale (Full),"$50,001 - $100,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,PM,Philip Morris International Inc,Stock,Sale (Full),"$100,001 - $250,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,PLD,"Prologis, Inc. Common Stock",Stock,Sale (Full),"$50,001 - $100,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,PG,Procter & Gamble Company,Stock,Sale (Full),"$100,001 - $250,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,NTR,Nutrien Ltd,Stock,Sale (Full),"$50,001 - $100,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,MRK,Merck & Company,Stock,Sale (Full),"$50,001 - $100,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,MDT,Medtronic plc. Ordinary Shares,Stock,Sale (Full),"$50,001 - $100,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,MCD,McDonald's Corp,Stock,Sale (Full),"$100,001 - $250,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,KO,Coca-Cola Company,Stock,Sale (Full),"$100,001 - $250,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,JNJ,Johnson & Johnson,Stock,Sale (Full),"$100,001 - $250,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,GD,General Dynamics Corp,Stock,Sale (Full),"$100,001 - $250,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,EQNR,Equinor ASA,Stock,Sale (Full),"$100,001 - $250,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,EMR,Emerson Electric Company,Stock,Sale (Full),"$100,001 - $250,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,CVS,CVS Health Corporation Common Stock,Stock,Sale (Full),"$50,001 - $100,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,CUBE,Cubesmart,Stock,Sale (Full),"$50,001 - $100,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,CF,"CF Industries Holdings, Inc. Common Stock",Stock,Sale (Full),"$50,001 - $100,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,BRK.B,Berkshire Hathaway Cl B,Stock,Sale (Full),"$100,001 - $250,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,APA,APA Corporation - Common Stock,Stock,Sale (Full),"$50,001 - $100,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,ADP,Automatic Data Procs,Stock,Sale (Full),"$50,001 - $100,000",--,Ricketts,John P,10/20/2023
+09/21/2023,Spouse,ABT,Abbott Laboratories,Stock,Sale (Full),"$100,001 - $250,000",--,Ricketts,John P,10/20/2023
+10/02/2023,Self,--,"445 Park Commons Company: 445 Park Commons
+                                                    
+                                                         (Nashville, TN) Description: Underlying commercial real estate asset owned by NSHD MSE Block C Joint Venture, LLC in Nashville, TN.",Other Securities,Purchase,"$250,001 - $500,000",--,"Hagerty, IV",William F,10/18/2023
+10/02/2023,Self,--,"NSHD MSE Block C Joint Venture, LLC Company: NSHD MSE Block C Joint Venture, LLC
+                                                    
+                                                         (Nashville, TN) Description: LLC interest for the purpose of investing in commercial real estate.",Other Securities,Purchase,"$250,001 - $500,000","Asset held by Roundstone Ventures, LLC.","Hagerty, IV",William F,10/18/2023
+09/20/2023,Spouse,C,Citigroup Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Whitehouse,Sheldon,10/17/2023
+09/20/2023,Spouse,PYPL,Paypal Holdings,Stock,Sale (Full),"$1,001 - $15,000",--,Whitehouse,Sheldon,10/17/2023
+09/20/2023,Spouse,T,AT&T Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Whitehouse,Sheldon,10/17/2023
+09/20/2023,Spouse,BTO,John Hancock Financial Opportunities Fund Common S,Stock,Sale (Full),"$1,001 - $15,000",--,Whitehouse,Sheldon,10/17/2023
+09/20/2023,Spouse,WBD,"Warner Bros. Discovery, Inc. - Series A Common Sto",Stock,Sale (Full),"$1,001 - $15,000",--,Whitehouse,Sheldon,10/17/2023
+09/20/2023,Spouse,INTC,Intel Corp,Stock,Sale (Full),"$1,001 - $15,000",--,Whitehouse,Sheldon,10/17/2023
+09/20/2023,Self,MET,Metlife Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Whitehouse,Sheldon,10/17/2023
+09/20/2023,Self,IR,Ingersoll Rand Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Whitehouse,Sheldon,10/17/2023
+09/20/2023,Self,KVUE,Kenvue Inc,Stock,Purchase,"$1,001 - $15,000",--,Whitehouse,Sheldon,10/17/2023
+09/20/2023,Self,VZ,Verizon Communications Inc,Stock,Purchase,"$1,001 - $15,000",--,Whitehouse,Sheldon,10/17/2023
+09/20/2023,Self,NVS,Novartis Ag ADR,Stock,Purchase,"$15,001 - $50,000",--,Whitehouse,Sheldon,10/17/2023
+09/20/2023,Self,MMM,3M Company,Stock,Sale (Full),"$15,001 - $50,000",--,Whitehouse,Sheldon,10/17/2023
+09/20/2023,Self,T,AT&T Inc,Stock,Sale (Full),"$15,001 - $50,000",--,Whitehouse,Sheldon,10/17/2023
+09/20/2023,Self,TSLA,Tesla Inc,Stock,Purchase,"$1,001 - $15,000",--,Whitehouse,Sheldon,10/17/2023
+09/20/2023,Self,SQ,"Block, Inc. Class A Common Stock,",Stock,Sale (Full),"$1,001 - $15,000",--,Whitehouse,Sheldon,10/17/2023
+09/20/2023,Self,WBD,"Warner Bros. Discovery, Inc. - Series A Common Sto",Stock,Sale (Full),"$1,001 - $15,000",--,Whitehouse,Sheldon,10/17/2023
+09/20/2023,Self,LLY,Eli Lilly and Company,Stock,Purchase,"$15,001 - $50,000",--,Whitehouse,Sheldon,10/17/2023
+09/27/2023,Spouse,SPGI,S&P Global Inc,Stock,Purchase,"$1,001 - $15,000",--,Capito,Shelley M,10/14/2023
+09/22/2023,Spouse,UNH,Unitedhealth Group Inc,Stock,Purchase,"$1,001 - $15,000",--,Capito,Shelley M,10/14/2023
+09/22/2023,Spouse,ACN,Accenture Plc,Stock,Purchase,"$1,001 - $15,000",--,Capito,Shelley M,10/14/2023
+09/21/2023,Spouse,RTX,Rtx Corp,Stock,Sale (Full),"$1,001 - $15,000",--,Capito,Shelley M,10/14/2023
+09/01/2023,Spouse,USB,U.S. Bancorp,Stock,Sale (Full),"$1,001 - $15,000",--,Capito,Shelley M,10/14/2023
+09/08/2023,Joint,LLY,Eli Lilly and Company Common Stock,Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,10/13/2023
+09/07/2023,Joint,PRU,"Prudential Financial, Inc. Common Stock",Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,10/13/2023
+09/07/2023,Joint,TSN,"Tyson Foods, Inc. Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--,Tuberville,Thomas H,10/13/2023
+09/07/2023,Self,AAPL,Apple Inc. - Common Stock,Stock,Sale (Partial),"$15,001 - $50,000",--,Tuberville,Thomas H,10/13/2023
+09/28/2023,Joint,KR,Kroger Company (The) Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,10/13/2023
+09/20/2023,Joint,CLX,Clorox Company (The) Common Stock,Stock,Purchase,"$100,001 - $250,000",--,Tuberville,Thomas H,10/13/2023
+09/18/2023,Joint,FITB,Fifth Third Bancorp - Common Stock Option Type: Call Strike price: $30.00 Expires: 05/17/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,10/13/2023
+09/18/2023,Joint,TXN,Texas Instruments Incorporated - Common Stock Option Type: Call Strike price: $180.00 Expires: 04/19/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,10/13/2023
+09/18/2023,Joint,LPX,Louisiana-Pacific Corporation Common Stock Option Type: Call Strike price: $70.00 Expires: 05/17/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,10/13/2023
+09/18/2023,Joint,PARA,Paramount Global - Class B Common Stock Option Type: Call Strike price: $17.50 Expires: 06/21/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,10/13/2023
+09/18/2023,Joint,PARA,Paramount Global - Class B Common Stock,Stock,Purchase,"$50,001 - $100,000",--,Tuberville,Thomas H,10/13/2023
+09/18/2023,Joint,TXN,Texas Instruments Incorporated - Common Stock,Stock,Purchase,"$100,001 - $250,000",--,Tuberville,Thomas H,10/13/2023
+09/15/2023,Joint,KMB,Kimberly-Clark Corporation Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,10/13/2023
+09/14/2023,Joint,TXN,Texas Instruments Incorporated - Common Stock,Stock,Purchase,"$50,001 - $100,000",--,Tuberville,Thomas H,10/13/2023
+09/14/2023,Joint,CLF,Cleveland-Cliffs Inc. Common Stock,Stock,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,10/13/2023
+09/13/2023,Joint,INTC,Intel Corporation - Common Stock Option Type: Call Strike price: $45.00 Expires: 04/19/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,10/13/2023
+09/13/2023,Joint,QCOM,QUALCOMM Incorporated - Common Stock Option Type: Put Strike price: $110.00 Expires: 06/21/2024,Stock Option,Sale (Full),"$15,001 - $50,000",--,Tuberville,Thomas H,10/13/2023
+09/13/2023,Joint,QCOM,QUALCOMM Incorporated - Common Stock Option Type: Call Strike price: $125.00 Expires: 03/15/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,10/13/2023
+09/13/2023,Joint,QCOM,QUALCOMM Incorporated - Common Stock,Stock,Sale (Full),"$250,001 - $500,000",--,Tuberville,Thomas H,10/13/2023
+09/13/2023,Joint,KMB,Kimberly-Clark Corporation Common Stock,Stock,Purchase,"$50,001 - $100,000",--,Tuberville,Thomas H,10/13/2023
+09/12/2023,Joint,LPX,Louisiana-Pacific Corporation Common Stock,Stock,Purchase,"$100,001 - $250,000",--,Tuberville,Thomas H,10/13/2023
+09/08/2023,Joint,KMB,Kimberly-Clark Corporation Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Tuberville,Thomas H,10/13/2023
+09/08/2023,Joint,CLF,Cleveland-Cliffs Inc. Common Stock,Stock,Purchase,"$50,001 - $100,000",--,Tuberville,Thomas H,10/13/2023
+09/07/2023,Joint,CLF,Cleveland-Cliffs Inc. Common Stock,Stock,Purchase,"$50,001 - $100,000",--,Tuberville,Thomas H,10/13/2023
+09/01/2023,Joint,QCOM,QUALCOMM Incorporated - Common Stock Option Type: Call Strike price: $125.00 Expires: 03/15/2024,Stock Option,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,10/13/2023
+09/13/2023,Joint,--,ALAMOGORDO N MEX MUN SCH DIST NO 001 GO BDS Rate/Coupon: 5.0% Matures: 08/01/27,Municipal Security,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,--,AUSTIN TEX PUB IMPT REF BDS Rate/Coupon: 5.0% Matures: 09/01/24,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,--,AUSTIN TEX CTFS OBLIG Rate/Coupon: 5.0% Matures: 09/01/38,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,--,CENTRAL WEBER UTAH SWR IMPT DIST SWR REV BDS Rate/Coupon: 5.0% Matures: 03/01/24,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,--,IPS MULTI-SCH BLDG CORP IND UNLTD AD VALOREM PPTY TAX FIRST MTG BDS Rate/Coupon: 5.0% Matures: 07/15/38,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,10/12/2023
+09/14/2023,Joint,--,SEATTLE WASH DRAIN & WASTEWATER REV REF REV BDS Rate/Coupon: 4.0% Matures: 05/01/39,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,10/12/2023
+09/20/2023,Joint,--,TEXAS ST GO MOBILITY FD BDS A Rate/Coupon: 4.0% Matures: 10/01/34,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,10/12/2023
+09/22/2023,Joint,--,UPTON CNTY TEX TAX NTS Rate/Coupon: 5.0% Matures: 02/15/25,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,10/12/2023
+09/26/2023,Joint,--,JOHNSTON CNTY N C GO REF BDS Rate/Coupon: 5.0% Matures: 02/01/24,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,10/12/2023
+09/27/2023,Joint,--,WAXAHACHIE TEX INDPT SCH DIST ULTD TAX REF BDS Rate/Coupon: 4.0% Matures: 08/15/34,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,10/12/2023
+09/28/2023,Joint,--,LUCAS CNTY OHIO LTD TAX VAR PURP IMPT GO BD ANTIC Rate/Coupon: 4.375% Matures: 10/11/24,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,10/12/2023
+09/28/2023,Joint,--,Macomb Inter Sch Dist Mich Unltd Tax Fo Bldg Site Bds Rate/Coupon: 5.0% Matures: 05/01/38,Municipal Security,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,ABT,Abbott Laboratories Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,ADBE,Adobe Systems Inc,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,AMD,"Advanced Micro Devices, Inc. - Common Stock",Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,GOOGL,Alphabet Cl A,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,AMZN,Amazon.com Inc,Stock,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,AXP,American Express Company Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,ELV,"Elevance Health, Inc. Common Stock",Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,AAPL,Apple Inc. - Common Stock,Stock,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,AMAT,"Applied Materials, Inc. - Common Stock",Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,AZO,"AutoZone, Inc. Common Stock",Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,BRK.B,Berkshire Hathaway Cl B,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,BLK,"BlackRock, Inc. Common Stock",Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,BSX,Boston Scientific Corp,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,CSX,CSX Corporation - Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,CAT,"Caterpillar, Inc. Common Stock",Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,CVX,Chevron Corp,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,CMG,Chipotle Mexican Grill,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,KO,Coca-Cola Company,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,CMCSA,Comcast Corporation - Class A Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,COP,ConocoPhillips Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,STZ,"Constellation Brands, Inc. Common Stock",Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/18/2023,Joint,COST,Costco Wholesale Corporation - Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,DHR,Danaher Corporation Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,DE,Deere & Company,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,EW,Edwards Lifesciences Corporation Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,EMR,Emerson Electric Company,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,META,"Meta Platforms, Inc. - Class A Common Stock",Stock,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,FI,"Fiserv, Inc. Common Stock",Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,GS,"Goldman Sachs Group, Inc. (The) Common Stock",Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,HLT,Hilton Worldwide Holdings Inc. Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,HD,"Home Depot, Inc. (The) Common Stock",Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,HON,Honeywell International Inc,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,ICE,Intercontinental Exchange,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,JPM,JP Morgan Chase & Co. Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,KLAC,KLA Corporation  - Common Stock,Stock,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,LRCX,Lam Research Corp,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,LLY,Eli Lilly and Company,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,MA,Mastercard Inc,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,MSFT,Microsoft Corp,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,NKE,Nike Inc,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,NVDA,NVIDIA Corporation - Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,PANW,"Palo Alto Networks, Inc. - Common Stock",Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,PEP,Pepsico Inc,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,PG,Procter & Gamble Company,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,RTX,RTX Corporation Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,SPGI,S&P Global Inc. Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,CRM,"Salesforce, Inc. Common Stock",Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,SHW,Sherwin-Williams Company,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,SBUX,Starbucks Corporation - Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,TMUS,T-Mobile US,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,TXN,Texas Instruments Incorporated - Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,TMO,Thermo Fisher Scientific Inc,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,UNP,Union Pacific Corporation Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,UNH,Unitedhealth Group Inc,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,VLO,Valero Energy Corporation Common Stock,Stock,Purchase,"$50,001 - $100,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,V,Visa Inc,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+09/13/2023,Joint,ZTS,Zoetis Inc. Class A Common Stock,Stock,Purchase,"$15,001 - $50,000",--,Mullin,Markwayne,10/12/2023
+08/24/2023,Spouse,JNJKVUE,Johnson & Johnson Common Stock (Exchanged) Kenvue Inc. Common Stock (Received),Stock,Exchange,"$1,001 - $15,000",--,Whitehouse,Sheldon,10/03/2023
+08/24/2023,Self,JNJKVUE,Johnson & Johnson Common Stock (Exchanged) Kenvue Inc. Common Stock (Received),Stock,Exchange,"$1,001 - $15,000",--,Whitehouse,Sheldon,10/03/2023
+09/26/2023,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$1,001 - $15,000",--,Carper,Thomas R,10/02/2023
+09/26/2023,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$15,001 - $50,000",--,Carper,Thomas R,10/02/2023
+09/25/2023,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$1,001 - $15,000",--,Carper,Thomas R,10/02/2023
+09/25/2023,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,10/02/2023
+09/21/2023,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$15,001 - $50,000",--,Carper,Thomas R,10/02/2023
+09/21/2023,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$15,001 - $50,000",--,Carper,Thomas R,10/02/2023
+09/21/2023,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$15,001 - $50,000",--,Carper,Thomas R,10/02/2023
+09/21/2023,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,10/02/2023
+09/21/2023,Spouse,--,US TREASURY BILL,Other Securities,Sale (Full),"$50,001 - $100,000",--,Carper,Thomas R,10/02/2023
+09/20/2023,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,10/02/2023
+09/20/2023,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$15,001 - $50,000",--,Carper,Thomas R,10/02/2023
+09/20/2023,Spouse,--,US TREASURY BILL,Other Securities,Purchase,"$50,001 - $100,000",--,Carper,Thomas R,10/02/2023
+08/31/2023,Self,--,"Narya Capital Fund II, L.P. Company: Narya Capital Fund II, L.P.
+                                                    
+                                                         (Cincinnati, OH) Description: Venture capital fund",Other Securities,Purchase,"$100,001 - $250,000",Subscription to limited partner interest in venture capital fund,Vance,JD,09/29/2023
+08/30/2023,Self,--,"Narya Capital Management LLC Company: Narya Capital Management LLC
+                                                    
+                                                         (Cincinnati, OH) Description: Venture capital fund management services",Non-Public Stock,Sale (Full),"$1,000,001 - $5,000,000",--,Vance,JD,09/29/2023
+08/22/2023,Joint,ZTS,Zoetis Inc Cl A,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,ULTA,Ulta Beauty Inc,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,TSCO,Tractor Supply Company,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,TJX,TJX Companies,Stock,Sale (Full),"$15,001 - $50,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,TMO,Thermo Fisher Scientific Inc,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,LUV,Southwest Airlines Company,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,PPG,PPG Industries,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,PNC,"PNC Financial Services Group, Inc. (The) Common St",Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,PXD,Pioneer Natural Resources Company,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,NTRS,Northern Trust Corp,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,MSFT,Microsoft Corp,Stock,Sale (Full),"$50,001 - $100,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,MA,Mastercard Inc,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,LRCX,Lam Research Corp,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,LH,Laboratory Corp of America Holdings,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,JPM,JP Morgan Chase & Company,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,JNJ,Johnson & Johnson,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,HON,Honeywell International Inc,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,CVS,CVS Corp,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,COST,Costco Wholesale Corporation - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,CHD,"Church & Dwight Company, Inc. Common Stock",Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks  for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,CVX,Chevron Corp,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,SCHW,The Charles Schwab Corp,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,BMY,Bristol-Myers Squibb Company,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,BKNG,Booking Holdings Inc,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,BLK,Blackrock Inc,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,AAPL,Apple Inc,Stock,Sale (Full),"$15,001 - $50,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,APH,Amphenol Corp,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,AME,"AMETEK, Inc.",Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,AXP,American Express Company,Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,AMZN,"Amazon.com, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks  for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,GOOG,Alphabet Inc. - Class C Capital Stock,Stock,Sale (Full),"$15,001 - $50,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,ALGN,"Align Technology, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks  for EIFs.,Sullivan,Daniel S,09/22/2023
+08/22/2023,Joint,ACN,Accenture Plc,Stock,Sale (Full),"$15,001 - $50,000",Sale part of investment strategy of 3rd party investment professional to exchange individual stocks received after death of filer’s parents for EIFs.,Sullivan,Daniel S,09/22/2023
+08/25/2023,Spouse,--,"Mack Bayou Townhomes Holdings, LLC - Class A Units Company: Mack Bayou Townhomes Holdings, LLC
+                                                    
+                                                         (Daphne, AL) Description: Investment and development of residential property in Florida",Other Securities,Purchase,"$100,001 - $250,000",--,Britt,Katie,09/18/2023
+08/22/2023,Joint,ZTS,Zoetis Inc Cl A,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,ULTA,Ulta Beauty Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,TSCO,Tractor Supply Company,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,TJX,TJX Companies,Stock,Sale (Full),"$15,001 - $50,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,TMO,Thermo Fisher Scientific Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,LUV,Southwest Airlines Company,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,PPG,PPG Industries,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,PNC,"PNC Financial Services Group, Inc. (The) Common St",Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,PXD,Pioneer Natural Resources Company,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,NTRS,Northern Trust Corp,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,MSFT,Microsoft Corp,Stock,Sale (Full),"$50,001 - $100,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,MA,Mastercard Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,LRCX,Lam Research Corp,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,LH,Laboratory Corp of America Holdings,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,JPM,JP Morgan Chase & Company,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,JNJ,Johnson & Johnson,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,HON,Honeywell International Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,CVS,CVS Corp,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,COST,Costco Wholesale Corporation - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,CHD,"Church & Dwight Company, Inc. Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,CVX,Chevron Corp,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,SCHW,The Charles Schwab Corp,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,BMY,Bristol-Myers Squibb Company,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,BKNG,Booking Holdings Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,BLK,Blackrock Inc,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,AAPL,Apple Inc,Stock,Sale (Full),"$15,001 - $50,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,APH,Amphenol Corp,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,AME,"AMETEK, Inc.",Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,AXP,American Express Company,Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,AMZN,"Amazon.com, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,GOOG,Alphabet Inc. - Class C Capital Stock,Stock,Sale (Full),"$15,001 - $50,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,ALGN,"Align Technology, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--,Sullivan,Daniel S,09/18/2023
+08/22/2023,Joint,ACN,Accenture Plc,Stock,Sale (Full),"$15,001 - $50,000",--,Sullivan,Daniel S,09/18/2023
+08/31/2023,Joint,QCOM,Qualcomm Inc,Stock,Purchase,"$100,001 - $250,000",--,Tuberville,Thomas H,09/15/2023
+08/18/2023,Joint,INTC,Intel Corp Option Type: Put Strike price: $30.00 Expires: 09/15/2023,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,09/15/2023
+08/14/2023,Joint,F,Ford Motor Company Option Type: Call Strike price: $14.35 Expires: 06/21/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,09/15/2023
+08/14/2023,Joint,F,Ford Motor Company,Stock,Sale (Full),"$100,001 - $250,000",--,Tuberville,Thomas H,09/15/2023
+08/23/2023,Self,--,FEB 24 CME CATTLE,Commodities/Futures Contract,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,09/15/2023
+08/23/2023,Self,--,OCT 23 CME CATTLE,Commodities/Futures Contract,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,09/15/2023
+08/23/2023,Self,--,CALL OCT 23 CBT CORN,Commodities/Futures Contract,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,09/15/2023
+08/21/2023,Self,--,CALL OCT 23 CBT CORN,Commodities/Futures Contract,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,09/15/2023
+08/16/2023,Self,--,OCT 23 CME CATTLE,Commodities/Futures Contract,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,09/15/2023
+08/08/2023,Self,--,DEC 23 SOYBEAN MEAL,Commodities/Futures Contract,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,09/15/2023
+08/08/2023,Self,--,SEP 23 SOYBEAN MEAL,Commodities/Futures Contract,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,09/15/2023
+08/04/2023,Self,--,DEC 23 SOYBEAN MEAL,Commodities/Futures Contract,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,09/15/2023
+08/04/2023,Self,--,SEP 23 SOYBEAN MEAL,Commodities/Futures Contract,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,09/15/2023
+08/03/2023,Self,--,DEC 23 SOYBEAN MEAL,Commodities/Futures Contract,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,09/15/2023
+08/03/2023,Self,--,SEP 23 SOYBEAN MEAL,Commodities/Futures Contract,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,09/15/2023
+08/03/2023,Self,--,CALL SEP 23 CBT SOYBEANS,Commodities/Futures Contract,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,09/15/2023
+08/03/2023,Self,--,CALL SEP 23 CBOT SD BEANS,Commodities/Futures Contract,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,09/15/2023
+08/01/2023,Self,--,CALL SEP 23 CBT SOYBEANS,Commodities/Futures Contract,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,09/15/2023
+08/01/2023,Self,--,CALL SEP 23 CBOT SD BEANS,Commodities/Futures Contract,Sale (Full),"$1,001 - $15,000",--,Tuberville,Thomas H,09/15/2023

@@ -124,23 +124,47 @@ def txs_for_report(client: requests.Session, row: List[str]) -> pd.DataFrame:
 
     stocks = []
     for table_row in tbody.find_all('tr'):
-        cols = [c.get_text() for c in table_row.find_all('td')]
-        tx_date, ticker, asset_name, asset_type, order_type, tx_amount =\
-            cols[1], cols[3], cols[4], cols[5], cols[6], cols[7]
-        if asset_type != 'Stock' and ticker.strip() in ('--', ''):
-            continue
+        cols = [c.get_text(strip=True) for c in table_row.find_all('td')]
+        if len(cols) < 9:
+            continue  # Ensure there are enough columns
+
+        # Unpack all columns
+        transaction_number, transaction_date, owner, ticker, asset_name, asset_type, transaction_type, amount, comment = cols
+
+        # Additional processing for asset_name to include details like option type, strike price, etc.
+        asset_details = table_row.find_all('td')[4]  # Assuming the 5th column contains the asset name and details
+        detailed_asset_name = asset_details.get_text(separator=" ", strip=True)
+
         stocks.append([
-            tx_date,
-            date_received,
+            transaction_date,
+            owner,
+            ticker,
+            detailed_asset_name,
+            asset_type,
+            transaction_type,
+            amount,
+            comment,
             last,
             first,
-            order_type,
-            ticker,
-            asset_name,
-            tx_amount
+            date_received
         ])
-    return pd.DataFrame(stocks).rename(
-        columns=dict(enumerate(REPORT_COL_NAMES)))
+
+    # Define the column names for the DataFrame
+    column_names = [
+        'Transaction Date',
+        'Owner',
+        'Ticker',
+        'Asset Name',
+        'Asset Type',
+        'Transaction Type',
+        'Amount',
+        'Comment',
+        'Last Name',
+        'First Name',
+        'Date Received'
+    ]
+
+    return pd.DataFrame(stocks, columns=column_names)
 
 
 def main() -> pd.DataFrame:
