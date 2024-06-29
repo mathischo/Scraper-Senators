@@ -1,4 +1,4 @@
-Transaction Date,Owner,Ticker,Asset Name,Asset Type,Transaction Type,Amount,Comment,Last Name,First Name,Date Received,Bioguide ID
+Transaction Date,Owner,Ticker,Asset Name,Asset Type,Transaction Type,Amount,Comment,Last Name,First Name,Date Received,bioguide
 05/07/2024,Joint,ARKK,Ark Innovation ETF Option Type: Call Strike price: $51.00 Expires: 12/20/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024,T000278
 05/10/2024,Joint,ARKK,Ark Innovation ETF Option Type: Put Strike price: $45.00 Expires: 09/20/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024,T000278
 05/08/2024,Joint,XBI,S&P Biotech SPDR Option Type: Call Strike price: $100.00 Expires: 10/18/2024,Stock Option,Purchase,"$1,001 - $15,000",--,Tuberville,Thomas H,06/14/2024,T000278
