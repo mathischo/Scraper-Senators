@@ -80,7 +80,7 @@ def reports_api(
     login_data = {
         'start': str(offset),
         'length': str(BATCH_SIZE),
-        'report_types': '[11]',
+        'report_types': '[11]', #11 are periodic transactions
         'filer_types': '[]',
         'submitted_start_date': '01/01/2012 00:00:00',
         'submitted_end_date': '',
