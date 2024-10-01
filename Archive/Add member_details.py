@@ -15,8 +15,8 @@ def fetch_members():
     
     return existing_members, prev_members
 
-# Extract member details
-def extract_member_details(members):
+# Get member details using bioguide ID
+def get_member_details(members):
     member_data = []
     for member in members:
         for term in member['terms']:
@@ -37,29 +37,40 @@ def extract_member_details(members):
                 'term_end': term['end'],
                 'type': term['type'],  # e.g., rep or sen
             }
-            # Calculate age only if birthday is known
-            if birthday != 'Unknown':
-                birth_date = datetime.strptime(birthday, "%Y-%m-%d")
-                details['age'] = (datetime.now() - birth_date).days // 365
-            else:
-                details['age'] = 'Unknown'
-            member_data.append(details)
-    return member_data
+
+# Add senator details to DataFrame
+def add_senator_details(df, members):
+    detail_columns = ['full_name', 'first_name', 'last_name', 'birthday', 'gender', 'party', 'state', 'term_start', 'term_end','type', 'age']
+    for column in detail_columns:
+        df[column] = None
+    
+    for index, row in df.iterrows():
+        bioguide = row['bioguide']
+        details = get_member_details(bioguide, members)
+        for key, value in details.items():
+            df.at[index, key] = value
+
+    return df
 
 # Main execution
 existing_members, prev_members = fetch_members()  # Fetch members
 all_members = existing_members + prev_members  # Combine lists
 
-# Extract details for all members
-all_member_data = extract_member_details(all_members)
+# Specify the path to your transactions CSV file
+csv_file_path = '/Users/mathisschomacher/Documents/Thesis/Scraper Senators/notebooks/senators_new.csv'
 
-# Create DataFrame from the extracted data
-members_df = pd.DataFrame(all_member_data)
+# Read your transactions CSV file into a DataFrame using comma as the delimiter
+transactions_df = pd.read_csv(csv_file_path, delimiter=',')
 
-# Specify the path to save the CSV file
-csv_file_path = '/Users/mathisschomacher/Documents/Thesis/Politicians Scraper/senator-filings-master/notebooks/all_members_data.csv'
+# Print the column names to verify
+print("Columns in the DataFrame:", transactions_df.columns)
 
-# Save the DataFrame to CSV
-members_df.to_csv(csv_file_path, index=False)
+# Check if 'bioguide' column exists
+if 'bioguide' not in transactions_df.columns:
+    raise ValueError("The 'bioguide' column is missing from the CSV file. Please check the file and try again.")
 
-print("CSV file has been saved successfully.")
+# Add senator details to the DataFrame
+transactions_df = add_senator_details(transactions_df, all_members)
+
+# Save the updated DataFrame back to CSV
+transactions_df.to_csv(csv_file_path, index=False)

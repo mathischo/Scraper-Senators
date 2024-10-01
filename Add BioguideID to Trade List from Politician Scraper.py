@@ -32,8 +32,8 @@ def bioid(first_name, last_name):
 
 def add_details_to_csv(file_path):
     try:
-        # Read the CSV file using semicolon as the delimiter
-        df = pd.read_csv(file_path, delimiter=';')
+        # Read the CSV file, guessing the delimiter automatically, and handling bad lines by skipping them
+        df = pd.read_csv(file_path, delimiter=None, engine='python', on_bad_lines='skip')
 
         # Print column names to verify
         print("Columns in CSV file:", df.columns)
@@ -53,5 +53,5 @@ def add_details_to_csv(file_path):
         print(f"An error occurred: {e}")
 
 # Update the CSV file with bioguide IDs
-csv_file_path = '/Users/mathisschomacher/Documents/Thesis/Politicians Scraper/senator-filings-master/notebooks/senators.csv'
+csv_file_path = '/Users/mathisschomacher/Documents/Thesis/Scraper Senators/notebooks/senators_new.csv'
 add_details_to_csv(csv_file_path)

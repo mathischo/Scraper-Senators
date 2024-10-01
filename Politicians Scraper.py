@@ -187,6 +187,6 @@ if __name__ == '__main__':
     log_format = '[%(asctime)s %(levelname)s] %(message)s'
     logging.basicConfig(level=logging.INFO, format=log_format)
     senator_txs = main()
-    csv_file_path = 'notebooks/senators.csv'
+    csv_file_path = 'notebooks/senator_trades.csv'
     LOGGER.info('Dumping to .csv file at {}'.format(csv_file_path))
     senator_txs.to_csv(csv_file_path, index=False)
